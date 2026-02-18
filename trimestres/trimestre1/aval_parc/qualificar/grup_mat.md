@@ -1,0 +1,1 @@
+qualificar per grup i mat

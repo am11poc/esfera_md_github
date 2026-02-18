@@ -1,0 +1,1 @@
+mprimir docum aval parcial

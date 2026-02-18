@@ -1,0 +1,1 @@
+definir curs mat per defecte

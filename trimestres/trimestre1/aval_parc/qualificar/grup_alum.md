@@ -1,0 +1,1 @@
+quali per grup i alumne
