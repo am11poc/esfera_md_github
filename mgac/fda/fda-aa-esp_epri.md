@@ -2,7 +2,7 @@
 
 Els casos singulars propis de l'educació primària són:
 
-* [Marcar les matèries que no s'avaluen](fda-aa-esp_epri.md#marcar-les-materies-que-no-savaluen)
+* [Marcar les matèries que no s'avaluen](fda-aa-esp_epri.md#marcar-les-matèries-que-no-savaluen)
 
 ### Marcar les matèries que no s'avaluen
 

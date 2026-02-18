@@ -1,6 +1,6 @@
 # Matrícula d'alumnes d'admissió o preinscripció
 
-* [Què és](mat_preins.md#que-es)
+* [Què és](mat_preins.md#què-és)
 * [Com s'hi accedeix](mat_preins.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mat_preins.md#quines-operacions-shi-poden-fer)
 
@@ -25,8 +25,8 @@ S'ha d'escollir l'opció **Matrícula d'alumnes d'admissió/preinscripció** del
 ## Quines operacions s'hi poden fer
 
 * [Seleccionar els alumnes](mat_preins.md#seleccionar-els-alumnes)
-* [Executar l'assistent de matrícula](mat_preins.md#executar-lassistent-de-matricula)
-* [Comprovar el currículum dels alumnes](mat_preins.md#comprovar-el-curriculum-dels-alumnes)
+* [Executar l'assistent de matrícula](mat_preins.md#executar-lassistent-de-matrícula)
+* [Comprovar el currículum dels alumnes](mat_preins.md#comprovar-el-currículum-dels-alumnes)
 
 Quan es va a iniciar la matrícula d'alumnes assignats en el procés de preinscripció pel curs següent, és convenient haver modificat prèviament el paràmetre en **Curs defecte matrícula** de l'opció del menú **Paràmetres del centre** del mòdul **Configuracions**.
 

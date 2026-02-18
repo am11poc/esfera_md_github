@@ -1,6 +1,6 @@
 # Atenció a la diversitat
 
-* [Què és](at.md#que-es)
+* [Què és](at.md#què-és)
 * [Com s’hi accedeix](at.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](at.md#quines-operacions-shi-poden-fer)
 

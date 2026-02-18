@@ -2,7 +2,7 @@
 
 L'**Àmbit personal** recull tota la informació de caràcter personal d'un alumne matriculat que el centre necessita per fer els diferents processos administratius.
 
-* [Què és](index.md#que-es)
+* [Què és](index.md#què-és)
 * [Com s'hi accedeix](index.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](index.md#quines-operacions-shi-poden-fer)
 

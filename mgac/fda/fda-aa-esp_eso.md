@@ -2,10 +2,10 @@
 
 Els casos singulars propis de l'ESO són:
 
-* [Gestió de matèries optatives](fda-aa-esp_eso.md#gestio-de-materies-optatives)
-* [Programes de diversificació curricular](fda-aa-esp_eso.md#programes-de-diversificacio-curricular)
-* [Concreció del PI en el currículum de l'alumne](fda-aa-esp_eso.md#concrecio-del-pi-en-el-curriculum-de-lalumne)
-* [Simultaneïtat d'estudis](fda-aa-esp_eso.md#simultaneitat-destudis)
+* [Gestió de matèries optatives](fda-aa-esp_eso.md#gestió-de-matèries-optatives)
+* [Programes de diversificació curricular](fda-aa-esp_eso.md#programes-de-diversificació-curricular)
+* [Concreció del PI en el currículum de l'alumne](fda-aa-esp_eso.md#concreció-del-pi-en-el-currículum-de-lalumne)
+* [Simultaneïtat d'estudis](fda-aa-esp_eso.md#simultaneïtat-destudis)
 
 ### Gestió de matèries optatives
 

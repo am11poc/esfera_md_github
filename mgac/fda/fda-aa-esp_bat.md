@@ -3,11 +3,11 @@
 Els casos singulars propis del batxillerat són:
 
 * [Canvi de modalitat](fda-aa-esp_bat.md#canvi-de-modalitat)
-* [Simultaneïtat d'estudis](fda-aa-esp_bat.md#simultaneitat-destudis)
+* [Simultaneïtat d'estudis](fda-aa-esp_bat.md#simultaneïtat-destudis)
 * [Batxibac](fda-aa-esp_bat.md#batxibac)
 * [Batxillerat internacional](fda-aa-esp_bat.md#batxillerat-internacional)
 * [Batxillerat nocturn](fda-aa-esp_bat.md#batxillerat-nocturn)
-* [Renúncia de matèries pendents](fda-aa-esp_bat.md#renuncia-de-materies-pendents)
+* [Renúncia de matèries pendents](fda-aa-esp_bat.md#renúncia-de-matèries-pendents)
 
 ### Canvi de modalitat
 

@@ -1,6 +1,6 @@
 # Avaluacions finals
 
-* [Què són](index.md#que-son)
+* [Què són](index.md#què-són)
 * [Com s'hi accedeix](index.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](index.md#quines-operacions-shi-poden-fer)
 
@@ -27,11 +27,11 @@ L’avaluació es desenvolupa en **fases** que en el programa es tradueixen en *
   
 ![](../../../_media/esfera/mgac/aval/aval-af_1.png)*Imatge 1 - Avaluacions finals - Correspondència entre fases i estats*
 
-* [Fase de treball de secretaria - Estat "Secretaria"](index.md#fase-de-treball-de-secretaria---estat-secretaria)
-* [Fase d'entrada de resultats - Estat "Equip docent"](index.md#fase-dentrada-de-resultats---estat-equip-docent)
-* [Fase de resultats de la sessió d'avaluació - Estat "Sessió"](index.md#fase-de-resultats-de-la-sessio-davaluacio---estat-sessio)
-* [Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "En signatura"](index.md#fase-de-comprovacio-de-resultats-signatura-i-impressio-dels-resultats---estat-en-signatura)
-* [Fase d'arxiu - Estat "Signada"](index.md#fase-darxiu---estat-signada)
+* [Fase de treball de secretaria - Estat "Secretaria"](index.md#fase-de-treball-de-secretaria-estat-secretaria)
+* [Fase d'entrada de resultats - Estat "Equip docent"](index.md#fase-dentrada-de-resultats-estat-equip-docent)
+* [Fase de resultats de la sessió d'avaluació - Estat "Sessió"](index.md#fase-de-resultats-de-la-sessió-davaluació-estat-sessió)
+* [Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "En signatura"](index.md#fase-de-comprovació-de-resultats-signatura-i-impressió-dels-resultats-estat-en-signatura)
+* [Fase d'arxiu - Estat "Signada"](index.md#fase-darxiu-estat-signada)
 
 Es pot passar de l’estat equip docent a l’estat sessió i retrocedir l’estat de sessió a equip docent.  
 Tota la resta de canvis d’estat de les avaluacions són **irreversibles**

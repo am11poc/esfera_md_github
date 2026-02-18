@@ -1,11 +1,11 @@
 # Avisos
 
-* [Què són](avisos.md#que-son)
+* [Què són](avisos.md#què-són)
 * [Com s’hi accedeix](avisos.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](avisos.md#quines-operacions-shi-poden-fer)
 
-  + [Llegir un avís](avisos.md#llegir-un-avis)
-  + [Esborrar un avís](avisos.md#esborrar-un-avis)
+  + [Llegir un avís](avisos.md#llegir-un-avís)
+  + [Esborrar un avís](avisos.md#esborrar-un-avís)
 
 ### Què són
 

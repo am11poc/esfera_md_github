@@ -1,12 +1,12 @@
 ## Matrícula
 
-* [Contextualització](index.md#contextualitzacio)
+* [Contextualització](index.md#contextualització)
 * [Funcions](index.md#funcions)
 * [D’on venen les dades](index.md#don-venen-les-dades)
-* [A quin lloc de l’aplicació es fan servir aquestes dades](index.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l’aplicació es fan servir aquestes dades](index.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](index.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](index.md#com-shi-accedeix)
-* [Organització](index.md#organitzacio)
+* [Organització](index.md#organització)
 
 ### Contextualització
 

@@ -1,11 +1,11 @@
 # Resposta petició de documentació
 
-* [Què és](respota_peticio_docum.md#que-es)
+* [Què és](respota_peticio_docum.md#què-és)
 * [Com s’hi accedeix](respota_peticio_docum.md#com-shi-accedeix)
 * [Quines operacions es poden fer](respota_peticio_docum.md#quines-operacions-es-poden-fer)
 
   + [Accedir al detall](respota_peticio_docum.md#accedir-al-detall)
-  + [Traspassar la documentació](respota_peticio_docum.md#traspassar-la-documentacio)
+  + [Traspassar la documentació](respota_peticio_docum.md#traspassar-la-documentació)
   + [Signar la tramesa](respota_peticio_docum.md#signar-la-tramesa)
   + [Tancar per error](respota_peticio_docum.md#tancar-per-error)
 

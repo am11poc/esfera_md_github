@@ -1,6 +1,6 @@
 ## Banc de frases
 
-* [Què són](apbancsf.md#que-son)
+* [Què són](apbancsf.md#què-són)
 * [Com s'hi accedeix](apbancsf.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](apbancsf.md#quines-operacions-shi-poden-fer)
 

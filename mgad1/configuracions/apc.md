@@ -1,6 +1,6 @@
 # Autoritzacions del personal del centre
 
-* [Què són](apc.md#que-son)
+* [Què són](apc.md#què-són)
 * [Com s'hi accedeix](apc.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](apc.md#quines-operacions-shi-poden-fer)
 

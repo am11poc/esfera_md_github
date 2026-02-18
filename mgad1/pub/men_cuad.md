@@ -1,6 +1,6 @@
 # Cua d'elaboració (plantilles)
 
-* [Què és](men_cuad.md#que-es)
+* [Què és](men_cuad.md#què-és)
 * [Com s’hi accedeix](men_cuad.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_cuad.md#quines-operacions-shi-poden-fer)
 

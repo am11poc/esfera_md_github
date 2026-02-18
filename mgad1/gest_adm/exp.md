@@ -1,11 +1,11 @@
 # Expedients
 
-* [Què són](exp.md#que-son)
+* [Què són](exp.md#què-són)
 * [Com s’hi accedeix](exp.md#com-shi-accedeix)
 * [Quines operacions es poden fer](exp.md#quines-operacions-es-poden-fer)
 
   + [Consultar l'expedient](exp.md#consultar-lexpedient)
-  + [Introduir diligències a l'expedient](exp.md#introduir-diligencies-a-lexpedient)
+  + [Introduir diligències a l'expedient](exp.md#introduir-diligències-a-lexpedient)
   + [Obtenir documents](exp.md#obtenir-documents)
 
 ### Què són

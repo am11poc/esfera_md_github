@@ -1,6 +1,6 @@
 # Extraccions
 
-* [Què són](ext.md#que-son)
+* [Què són](ext.md#què-són)
 * [Com s’hi accedeix](ext.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](ext.md#quines-operacions-shi-poden-fer)
 
@@ -30,11 +30,11 @@ Per accedir-hi, heu de seleccionar l'opció del menú **Extraccions** del mòdul
 
 Les operacions que s'hi poden fer són:
 
-* [Afegir una extracció nova](ext.md#afegir-una-extraccio-nova)
-* [Esborrar una extracció existent](ext.md#esborrar-una-extraccio-existent)
-* [Fer una còpia d'una extracció existent](ext.md#fer-una-copia-duna-extraccio-existent)
-* [Modificar una extracció existent](ext.md#modificar-una-extraccio-existent)
-* [Executar una extracció existent](ext.md#executar-una-extraccio-existent)
+* [Afegir una extracció nova](ext.md#afegir-una-extracció-nova)
+* [Esborrar una extracció existent](ext.md#esborrar-una-extracció-existent)
+* [Fer una còpia d'una extracció existent](ext.md#fer-una-còpia-duna-extracció-existent)
+* [Modificar una extracció existent](ext.md#modificar-una-extracció-existent)
+* [Executar una extracció existent](ext.md#executar-una-extracció-existent)
 
 ![](../../_media/esfera/mgac/pub/imatge_2.png)*Imatge 2 - Pantalla amb les operacions que es poden fer a Extraccions*
 
@@ -134,7 +134,7 @@ A continuació es mostren les mateixes dades de l'extracció original, excepte e
 
 Per modificar una extracció cal seleccionar el botó ![](../../_media/esfera/mgac/editar.png).  
   
-A continuació es mostren totes les dades de l'extracció agrupades en tres blocs tal com s'explica a [Afegir una extracció nova](ext.md#afegir-una-extraccio-nova).  
+A continuació es mostren totes les dades de l'extracció agrupades en tres blocs tal com s'explica a [Afegir una extracció nova](ext.md#afegir-una-extracció-nova).  
   
 ![](../../_media/esfera/mgac/pub/imatge_10.png)*Imatge 10 - Pantalla per modificar una extracció*
   

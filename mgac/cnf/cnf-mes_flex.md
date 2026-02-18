@@ -1,6 +1,6 @@
 # Mesures flexibilitzadores
 
-* [Què són](cnf-mes_flex.md#que-son)
+* [Què són](cnf-mes_flex.md#què-són)
 * [Com s’hi accedeix](cnf-mes_flex.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-mes_flex.md#quines-operacions-shi-poden-fer)
 

@@ -1,6 +1,6 @@
 # Avaluacions parcials
 
-* [Què són](index.md#que-son)
+* [Què són](index.md#què-són)
 * [Com s'hi accedeix](index.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](index.md#quines-operacions-shi-poden-fer)
 
@@ -54,10 +54,10 @@ L'avaluació es desenvolupa en **fases** que en el programa es tradueixen en **e
 
 Les fases establertes són:
 
-* [Fase de treball de secretaria - Estat "Secretaria"](index.md#fase-de-treball-de-secretaria---estat-secretaria)
-* [Fase d'entrada de resultats - Estat "Professors"](index.md#fase-dentrada-de-resultats---estat-professors)
-* [Fase de resultats de la sessió d'avaluació i fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](index.md#fase-de-resultats-de-la-sessio-davaluacio-i-fase-de-comprovacio-de-resultats-signatura-i-impressio-dels-resultats---estat-junta)
-* [Fase d'arxiu - Estat "Tancada"](index.md#fase-darxiu---estat-tancada)
+* [Fase de treball de secretaria - Estat "Secretaria"](index.md#fase-de-treball-de-secretaria-estat-secretaria)
+* [Fase d'entrada de resultats - Estat "Professors"](index.md#fase-dentrada-de-resultats-estat-professors)
+* [Fase de resultats de la sessió d'avaluació i fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](index.md#fase-de-resultats-de-la-sessió-davaluació-i-fase-de-comprovació-de-resultats-signatura-i-impressió-dels-resultats-estat-junta)
+* [Fase d'arxiu - Estat "Tancada"](index.md#fase-darxiu-estat-tancada)
 
 #### Fase de treball de secretaria - Estat "Secretaria"
 

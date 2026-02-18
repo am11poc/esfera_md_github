@@ -1,7 +1,7 @@
 # Avaluacions
 
-* [Contextualització](modaval.md#contextualitzacio)
-* [Quina funció té aquest mòdul](modaval.md#quina-funcio-te-aquest-modul)
+* [Contextualització](modaval.md#contextualització)
+* [Quina funció té aquest mòdul](modaval.md#quina-funció-té-aquest-mòdul)
 * [Tipus d'avaluacions al programa](modaval.md#tipus-davaluacions-al-programa)
 
   + Avaluacions finals
@@ -65,9 +65,9 @@ Tenint en compte que el centre ha de fer les avaluacions finals i pot fer avalua
 
 És el procés administratiu on, d'acord amb la normativa, es valoren els aprenentatges i les competències adquirides per l'alumne en finalitzar un determinat ensenyament, un nivell, un mòdul… i es genera la documentació pertinent.
 
-* [Aplicació en els diferents ensenyaments](modaval.md#aplicacio-en-els-diferents-ensenyaments)
+* [Aplicació en els diferents ensenyaments](modaval.md#aplicació-en-els-diferents-ensenyaments)
 * [Fases](modaval.md#fases)
-* [Accions durant el procés d'avaluació](modaval.md#accions-durant-el-proces-davaluacio)
+* [Accions durant el procés d'avaluació](modaval.md#accions-durant-el-procés-davaluació)
 * [Permisos](modaval.md#permisos)
 
 ### Aplicació en els diferents ensenyaments
@@ -93,11 +93,11 @@ El procés d'avaluació està dividit en **fases**. A Esfer@, cadascuna de les f
   
 Les fases que es contemplen són:
 
-* [Fase de treball de secretaria - Estat "Secretaria"](modaval.md#fase-de-treball-de-secretaria---estat-secretaria)
-* [Fase d'entrada de resultats - Estat "Equip docent"](modaval.md#fase-dentrada-de-resultats---estat-equip-docent)
-* [Fase resultats de la sessió d'avaluació - Estat "Sessió"](modaval.md#fase-resultats-de-la-sessio-davaluacio---estat-sessio)
-* [Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "En signatura"](modaval.md#fase-de-comprovacio-de-resultats-signatura-i-impressio-dels-resultats---estat-en-signatura)
-* [Fase d'arxiu - Estat "Signada"](modaval.md#fase-darxiu---estat-signada)
+* [Fase de treball de secretaria - Estat "Secretaria"](modaval.md#fase-de-treball-de-secretaria-estat-secretaria)
+* [Fase d'entrada de resultats - Estat "Equip docent"](modaval.md#fase-dentrada-de-resultats-estat-equip-docent)
+* [Fase resultats de la sessió d'avaluació - Estat "Sessió"](modaval.md#fase-resultats-de-la-sessió-davaluació-estat-sessió)
+* [Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "En signatura"](modaval.md#fase-de-comprovació-de-resultats-signatura-i-impressió-dels-resultats-estat-en-signatura)
+* [Fase d'arxiu - Estat "Signada"](modaval.md#fase-darxiu-estat-signada)
 
 ![](../../_media/esfera/mgac/btn-pujar.gif)![](../../_media/esfera/mgac/pujar0.png)
 
@@ -207,10 +207,10 @@ Les tasques que s'han de fer són:
 La normativa dóna llibertat als centres per organitzar les avaluacions parcials d'acord amb els objectius reflectits en el seu Projecte Educatiu de Centre (PEC).
 
 * [Les avaluacions parcials a Esfer@](modaval.md#les-avaluacions-parcials-a-esfer)
-* [Definició del tipus d'avaluació](modaval.md#definicio-del-tipus-davaluacio)
-* [Fases de les sessions d'avaluació parcials](modaval.md#fases-de-les-sessions-davaluacio-parcials)
-* [Accions durant el procés de les avaluacions parcials](modaval.md#accions-durant-el-proces-de-les-avaluacions-parcials)
-* [Permisos d'accés segons les fases de les avaluacions](modaval.md#permisos-dacces-segons-les-fases-de-les-avaluacions)
+* [Definició del tipus d'avaluació](modaval.md#definició-del-tipus-davaluació)
+* [Fases de les sessions d'avaluació parcials](modaval.md#fases-de-les-sessions-davaluació-parcials)
+* [Accions durant el procés de les avaluacions parcials](modaval.md#accions-durant-el-procés-de-les-avaluacions-parcials)
+* [Permisos d'accés segons les fases de les avaluacions](modaval.md#permisos-daccés-segons-les-fases-de-les-avaluacions)
 
 #### Les avaluacions parcials a Esfer@
 
@@ -251,10 +251,10 @@ L'avaluació es desenvolupa en FASES que en el programa es tradueixen en ESTATS
   
 Les fases que es contemplen són:
 
-* [Fase de treball de secretaria - Estat "Secretaria"](modaval.md#fase-de-treball-de-secretaria---estat-secretaria)
-* [Fase d'entrada de resultats - Estat "Professorat"](modaval.md#fase-dentrada-de-resultats---estat-professorat)
-* [Fase resultats de la sessió d'avaluació i Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](modaval.md#fase-resultats-de-la-sessio-davaluacio-i-fase-de-comprovacio-de-resultats-signatura-i-impressio-dels-resultats---estat-junta)
-* [Fase d'arxiu - Estat "Tancada"](modaval.md#fase-darxiu---estat-tancada)
+* [Fase de treball de secretaria - Estat "Secretaria"](modaval.md#fase-de-treball-de-secretaria-estat-secretaria)
+* [Fase d'entrada de resultats - Estat "Professorat"](modaval.md#fase-dentrada-de-resultats-estat-professorat)
+* [Fase resultats de la sessió d'avaluació i Fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](modaval.md#fase-resultats-de-la-sessió-davaluació-i-fase-de-comprovació-de-resultats-signatura-i-impressió-dels-resultats-estat-junta)
+* [Fase d'arxiu - Estat "Tancada"](modaval.md#fase-darxiu-estat-tancada)
 
 #### Fase de treball de secretaria - Estat "Secretaria"
 

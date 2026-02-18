@@ -1,6 +1,6 @@
 # Camps lliures
 
-* [Què són](cnf-c_ll.md#que-son)
+* [Què són](cnf-c_ll.md#què-són)
 * [Com s'hi accedeix](cnf-c_ll.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-c_ll.md#quines-operacions-shi-poden-fer)
 * [Tipus](cnf-c_ll.md#tipus)

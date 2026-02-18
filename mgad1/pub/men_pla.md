@@ -1,6 +1,6 @@
 # Plantilles
 
-* [Què són](men_pla.md#que-son)
+* [Què són](men_pla.md#què-són)
 * [Com s’hi accedeix](men_pla.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_pla.md#quines-operacions-shi-poden-fer)
 
@@ -33,7 +33,7 @@ Les operacions que s'hi poden fer són:
 
 * [Afegir una plantilla nova](men_pla.md#afegir-una-plantilla-nova)
 * [Esborrar una plantilla existent](men_pla.md#esborrar-una-plantilla-existent)
-* [Fer una còpia d'una plantilla existent](men_pla.md#fer-una-copia-duna-plantilla-existent)
+* [Fer una còpia d'una plantilla existent](men_pla.md#fer-una-còpia-duna-plantilla-existent)
 * [Modificar una plantilla existent](men_pla.md#modificar-una-plantilla-existent)
 * [Executar una plantilla existent](men_pla.md#executar-una-plantilla-existent)
 

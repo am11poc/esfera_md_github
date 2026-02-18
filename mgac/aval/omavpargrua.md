@@ -1,6 +1,6 @@
 ## Qualificacions per grup i alumne/a
 
-* [Què són](omavpargrua.md#que-son)
+* [Què són](omavpargrua.md#què-són)
 * [Com s'hi accedeix](omavpargrua.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](omavpargrua.md#quines-operacions-shi-poden-fer)
 
@@ -54,7 +54,7 @@ La pantalla està estructurada en diverses seccions:
 
 Les icones ![](../../_media/esfera/mgac/i_lupa.png) i ![](../../_media/esfera/mgac/i_accedeix.png) permeten entrar comentaris a l'avaluació de l'alumne en relació amb una matèria.
 
-* ![](../../_media/esfera/mgac/i_lupa.png) [Permet afegir, als comentaris de la matèria,](omavpargrua.md#permet-afegir-als-comentaris-de-la-materia) una frase del banc de frases assignat a l'element.
+* ![](../../_media/esfera/mgac/i_lupa.png) [Permet afegir, als comentaris de la matèria,](omavpargrua.md#permet-afegir-als-comentaris-de-la-matèria) una frase del banc de frases assignat a l'element.
 * ![](../../_media/esfera/mgac/i_accedeix.png) Permet editar/entrar comentaris.
 
 #### Entrada de frases dels bancs de frases assignats a l'element avaluable

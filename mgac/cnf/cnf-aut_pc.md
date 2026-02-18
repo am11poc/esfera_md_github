@@ -1,6 +1,6 @@
 # Autoritzacions del personal del centre
 
-* [Què són](cnf-aut_pc.md#que-son)
+* [Què són](cnf-aut_pc.md#què-són)
 * [Com s'hi accedeix](cnf-aut_pc.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-aut_pc.md#quines-operacions-shi-poden-fer)
 

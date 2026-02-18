@@ -1,6 +1,6 @@
 ## Qualificacions per grup i alumne/a
 
-* [Què és](grupalavalfinal.md#que-es)
+* [Què és](grupalavalfinal.md#què-és)
 * [Com s'hi accedeix](grupalavalfinal.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](grupalavalfinal.md#quines-operacions-shi-poden-fer)
 

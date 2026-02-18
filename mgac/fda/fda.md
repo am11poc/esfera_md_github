@@ -1,9 +1,9 @@
 ## Fitxa de l'alumne/a
 
-* [Contextualització](fda.md#contextualitzacio)
+* [Contextualització](fda.md#contextualització)
 * [Funcions](fda.md#funcions)
 * [D'on venen les dades](fda.md#don-venen-les-dades)
-* [A quin lloc de l'aplicació es fan servir aquestes dades](fda.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l'aplicació es fan servir aquestes dades](fda.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](fda.md#qui-hi-pot-accedir)
 * [Com s'hi accedeix](fda.md#com-shi-accedeix)
 
@@ -31,7 +31,7 @@ Les dades corresponents a cadascun d'aquests dos àmbits es reparteixen en pesta
 ### Funcions
 
 * [Definir els filtres per seleccionar els alumnes](fda.md#definir-els-filtres-per-seleccionar-els-alumnes)
-* [Seleccionar els alumnes i imprimir-ne el resguard i la declaració](fda.md#seleccionar-els-alumnes-i-imprimir-ne-el-resguard-i-la-declaracio)
+* [Seleccionar els alumnes i imprimir-ne el resguard i la declaració](fda.md#seleccionar-els-alumnes-i-imprimir-ne-el-resguard-i-la-declaració)
 
 #### Definir els filtres per seleccionar els alumnes
 

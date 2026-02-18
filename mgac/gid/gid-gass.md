@@ -1,6 +1,6 @@
 # Grups assignats
 
-* [Què són](gid-gass.md#que-son)
+* [Què són](gid-gass.md#què-són)
 * [Com s’hi accedeix](gid-gass.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](gid-gass.md#quines-operacions-shi-poden-fer)
 

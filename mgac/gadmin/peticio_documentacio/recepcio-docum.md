@@ -1,12 +1,12 @@
 # Recepció de documentació
 
-* [Què és](recepcio-docum.md#que-es)
+* [Què és](recepcio-docum.md#què-és)
 * [Com s’hi accedeix](recepcio-docum.md#com-shi-accedeix)
 * [Quines operacions es poden fer](recepcio-docum.md#quines-operacions-es-poden-fer)
 
   + [Cercar peticions](recepcio-docum.md#cercar-peticions)
-  + [Acceptar la resposta de documentació](recepcio-docum.md#acceptar-la-resposta-de-documentacio)
-  + [Rebutjar la resposta de documentació](recepcio-docum.md#rebutjar-la-resposta-de-documentacio)
+  + [Acceptar la resposta de documentació](recepcio-docum.md#acceptar-la-resposta-de-documentació)
+  + [Rebutjar la resposta de documentació](recepcio-docum.md#rebutjar-la-resposta-de-documentació)
 
 ## Què és
 

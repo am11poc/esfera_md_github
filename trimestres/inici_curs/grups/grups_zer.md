@@ -1,6 +1,6 @@
 # Grups ZER
 
-* [Què són](grups_zer.md#que-son)
+* [Què són](grups_zer.md#què-són)
 * [Com s’hi accedeix](grups_zer.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](grups_zer.md#quines-operacions-shi-poden-fer)
 

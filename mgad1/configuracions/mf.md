@@ -1,6 +1,6 @@
 # Mesures flexibilitzadores
 
-* [Què són](mf.md#que-son)
+* [Què són](mf.md#què-són)
 * [Com s’hi accedeix](mf.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mf.md#quines-operacions-shi-poden-fer)
 

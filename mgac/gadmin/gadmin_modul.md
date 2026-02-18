@@ -1,11 +1,11 @@
 # Gestió administrativa
 
-* [Contextualització](gadmin_modul.md#contextualitzacio)
-* [Funció d’aquest mòdul](gadmin_modul.md#funcio-daquest-modul)
+* [Contextualització](gadmin_modul.md#contextualització)
+* [Funció d’aquest mòdul](gadmin_modul.md#funció-daquest-mòdul)
 * [D’on venen les dades](gadmin_modul.md#don-venen-les-dades)
 * [Qui hi pot accedir](gadmin_modul.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](gadmin_modul.md#com-shi-accedeix)
-* [Organització del mòdul](gadmin_modul.md#organitzacio-del-modul)
+* [Organització del mòdul](gadmin_modul.md#organització-del-mòdul)
 
 ### Contextualització
 

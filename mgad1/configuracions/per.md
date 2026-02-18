@@ -1,6 +1,6 @@
 # Personal
 
-* [Què és](per.md#que-es)
+* [Què és](per.md#què-és)
 * [Com s'hi accedeix](per.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](per.md#quines-operacions-shi-poden-fer)
 
@@ -28,7 +28,7 @@ Per accedir-hi, heu de seleccionar l'opció del menú **Personal** del mòdul **
 Actualment hi ha tres apartats:
 
 * [Plantilles](per.md#plantilles)
-* [Obertura de la dedicació](per.md#obertura-de-la-dedicacio)
+* [Obertura de la dedicació](per.md#obertura-de-la-dedicació)
 * [Camps lliures](per.md#camps-lliures)
 
 #### Plantilles

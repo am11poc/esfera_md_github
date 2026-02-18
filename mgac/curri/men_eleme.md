@@ -1,6 +1,6 @@
 # Elements curriculars
 
-* [Què són](men_eleme.md#que-son)
+* [Què són](men_eleme.md#què-són)
 * [Com s’hi accedeix](men_eleme.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_eleme.md#quines-operacions-shi-poden-fer)
 
@@ -49,7 +49,7 @@ A la capçalera de les columnes hi ha el nom del camp. A sota, hi ha uns espais 
   + [Crear](men_eleme.md#crear) - D'acord amb el PEC, crear nous continguts per poder-los assignar als currículums.
   + [Esborrar](men_eleme.md#esborrar) - El programa permet esborrar continguts si no hi ha cap alumne que els tingui al currículum o a l'expedient (per esborrar els creats per error, duplicats…).
   + [Mostrar/Ocultar els continguts no vigents a 01/09/yyyy](men_eleme.md#mostrarocultar-els-continguts-no-vigents-a-0109yyyy) - Permet veure/ocultar els continguts que ja no són vigents a la data de inici del curs escolar. Si és el cas, es pot treure o canviar la data de fi de la vigència perquè un contingut pugui tornar a ser vigent.
-  + [Comunicar la implantació](men_eleme.md#comunicar-la-implantacio) - Aquesta funció està reservada als cicles formatius i permet comunicar al Departament els mòduls de centre.
+  + [Comunicar la implantació](men_eleme.md#comunicar-la-implantació) - Aquesta funció està reservada als cicles formatius i permet comunicar al Departament els mòduls de centre.
 
 #### Consultar
 

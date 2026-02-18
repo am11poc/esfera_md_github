@@ -1,6 +1,6 @@
 # Paràmetres del centre
 
-* [Què són](param_mat.md#que-son)
+* [Què són](param_mat.md#què-són)
 * [Com s’hi accedeix](param_mat.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](param_mat.md#quines-operacions-shi-poden-fer)
 

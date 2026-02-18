@@ -1,6 +1,6 @@
 # Etiquetes d'alumnes
 
-* [Què són](men_eti.md#que-son)
+* [Què són](men_eti.md#què-són)
 * [Com s’hi accedeix](men_eti.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_eti.md#quines-operacions-shi-poden-fer)
 

@@ -1,6 +1,6 @@
 # Paràmetres del centre
 
-* [Què són](cnf-param_centre.md#que-son)
+* [Què són](cnf-param_centre.md#què-són)
 * [Com s’hi accedeix](cnf-param_centre.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-param_centre.md#quines-operacions-shi-poden-fer)
 

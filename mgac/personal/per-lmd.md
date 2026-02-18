@@ -1,6 +1,6 @@
 ## Les meves dades
 
-* [Què és](per-lmd.md#que-es)
+* [Què és](per-lmd.md#què-és)
 * [Com s'hi accedeix](per-lmd.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](per-lmd.md#quines-operacions-shi-poden-fer)
 
@@ -27,7 +27,7 @@ Per accedir-hi, cal seleccionar l'opció **Visualitzar les meves dades** del mò
 ### Quines operacions s'hi poden fer
 
 * [Consultar les dades](per-lmd.md#consultar-les-dades)
-* [Gestionar la dedicació](per-lmd.md#gestionar-la-dedicacio)
+* [Gestionar la dedicació](per-lmd.md#gestionar-la-dedicació)
 
 ### Consultar les dades
 
@@ -91,9 +91,9 @@ A la primera part hi ha un **Resum** amb les següents dades:
 
 i les dades afegides a la **Dedicació**, apartat que es distribueix en quatre blocs:
 
-* [Dedicació ordinària](per-lmd.md#dedicacio-ordinaria)
-* [Atenció a la diversitat](per-lmd.md#atencio-a-la-diversitat)
-* [Càrrecs](per-lmd.md#carrecs)
+* [Dedicació ordinària](per-lmd.md#dedicació-ordinària)
+* [Atenció a la diversitat](per-lmd.md#atenció-a-la-diversitat)
+* [Càrrecs](per-lmd.md#càrrecs)
 * [Altres funcions](per-lmd.md#altres-funcions)
 
 #### Dedicació ordinària

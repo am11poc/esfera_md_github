@@ -1,17 +1,17 @@
 # Petició de documentació
 
-* [Què és](peti_docu.md#que-es)
+* [Què és](peti_docu.md#què-és)
 * [Com s’hi accedeix](peti_docu.md#com-shi-accedeix)
 * [Quines operacions es poden fer](peti_docu.md#quines-operacions-es-poden-fer)
 
-  + [Traspàs de custòdia entre centres Esfer@](peti_docu.md#traspas-de-custodia-entre-centres-esfer)
+  + [Traspàs de custòdia entre centres Esfer@](peti_docu.md#traspàs-de-custòdia-entre-centres-esfer)
 
-    - [Actuacions prèvies](peti_docu.md#actuacions-previes)
-    - [Fer una petició de documentació](peti_docu.md#fer-una-peticio-de-documentacio)
-    - [Respondre una petició de documentació](peti_docu.md#respondre-una-peticio-de-documentacio)
-    - [Rebre la documentació](peti_docu.md#rebre-la-documentacio)
-  + [Traspàs de documentació d'un centre Esfer@ a un centre NO Esfer@](peti_docu.md#traspas-de-documentacio-dun-centre-esfer-a-un-centre-no-esfer)
-  + [Traspàs de documentació d'un centre NO Esfer@ a un centre Esfer@](peti_docu.md#traspas-de-documentacio-dun-centre-no-esfer-a-un-centre-esfer)
+    - [Actuacions prèvies](peti_docu.md#actuacions-prèvies)
+    - [Fer una petició de documentació](peti_docu.md#fer-una-petició-de-documentació)
+    - [Respondre una petició de documentació](peti_docu.md#respondre-una-petició-de-documentació)
+    - [Rebre la documentació](peti_docu.md#rebre-la-documentació)
+  + [Traspàs de documentació d'un centre Esfer@ a un centre NO Esfer@](peti_docu.md#traspàs-de-documentació-dun-centre-esfer-a-un-centre-no-esfer)
+  + [Traspàs de documentació d'un centre NO Esfer@ a un centre Esfer@](peti_docu.md#traspàs-de-documentació-dun-centre-no-esfer-a-un-centre-esfer)
 
 ## Què és
 
@@ -274,8 +274,8 @@ Si s'ha matriculat al centre un alumne procedent d'un centre **NO Esfer@** en re
   
 En aquest cas el **centre de destinació** ha de realitzar els passos següents a l’aplicació:
 
-1. Enregistrar  [les dades del centre de procedència a Dades d’accés i finalització de l’Àmbit acadèmic](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#les-dades-del-centre-de-procedencia-a-dades-dacces-i-finalitzacio-de-lambit-academic).
-2. [Iniciar la petició de documentació](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#iniciar-la-peticio-de-documentacio) i [formalitzar-la com a Gestió manual](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#formalitzar-la-com-a-gestio-manual). Comprovar que s’ha arxivat correctament l’expedient.
+1. Enregistrar  [les dades del centre de procedència a Dades d’accés i finalització de l’Àmbit acadèmic](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#les-dades-del-centre-de-procedència-a-dades-daccés-i-finalització-de-làmbit-acadèmic).
+2. [Iniciar la petició de documentació](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#iniciar-la-petició-de-documentació) i [formalitzar-la com a Gestió manual](../../mgad1/gest_adm/peticio_documentacio/peticio_doc.md#formalitzar-la-com-a-gestió-manual). Comprovar que s’ha arxivat correctament l’expedient.
 3. Gravar[les dades rebudes en paper del centre d’origen a la funcionalitat Gestió manual](../../mgad1/gest_adm/peticio_documentacio/gestio_manual.md). .
 4. Carregar en format PDF el document rebut en paper.
 5. El director/a ha de [signar la conformitat](../../mgad1/gest_adm/peticio_documentacio/gestio_manual.md#signar-la-conformitat) de les dades entrades.

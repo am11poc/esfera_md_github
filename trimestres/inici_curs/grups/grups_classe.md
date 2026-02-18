@@ -1,6 +1,6 @@
 # Grups classe
 
-* [Què són](grups_classe.md#que-son)
+* [Què són](grups_classe.md#què-són)
 * [Com s’hi accedeix](grups_classe.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](grups_classe.md#quines-operacions-shi-poden-fer)
 

@@ -1,6 +1,6 @@
 # Sessió d'avaluació
 
-* [Què és](sessioavalfinal.md#que-es)
+* [Què és](sessioavalfinal.md#què-és)
 * [Com s'hi accedeix](sessioavalfinal.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](sessioavalfinal.md#quines-operacions-shi-poden-fer)
 
@@ -68,7 +68,7 @@ Es mostra la pantalla de la **sessió d'avaluació** amb:
 
 #### Canviar l'estat d'una sessió d'avaluació d'un grup
 
-* [Fer la petició per canviar l'estat](sessioavalfinal.md#fer-la-peticio-per-canviar-lestat)
+* [Fer la petició per canviar l'estat](sessioavalfinal.md#fer-la-petició-per-canviar-lestat)
 * [Condicions per canviar l'estat](sessioavalfinal.md#condicions-per-canviar-lestat)
 * [Accions que es poden fer en cada estat](sessioavalfinal.md#accions-que-es-poden-fer-en-cada-estat)
 
@@ -177,7 +177,7 @@ Després d'entrar les dades, prémer el botó ![](../../_media/esfera/mgac/b_des
 
 * [Actes](sessioavalfinal.md#actes)
 * [Butlletins](sessioavalfinal.md#butlletins)
-* [Acusament de recepció](sessioavalfinal.md#acusament-de-recepcio)
+* [Acusament de recepció](sessioavalfinal.md#acusament-de-recepció)
 
 #### Generació dels documents
 

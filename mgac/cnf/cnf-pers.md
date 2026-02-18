@@ -1,6 +1,6 @@
 # Personal
 
-* [Què és](cnf-pers.md#que-es)
+* [Què és](cnf-pers.md#què-és)
 * [Com s'hi accedeix](cnf-pers.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-pers.md#quines-operacions-shi-poden-fer)
 
@@ -28,7 +28,7 @@ Per accedir-hi, heu de seleccionar l'opció del menú **Personal** del mòdul **
 Actualment hi ha tres apartats:
 
 * [Plantilles](cnf-pers.md#plantilles)
-* [Obertura de la dedicació](cnf-pers.md#obertura-de-la-dedicacio)
+* [Obertura de la dedicació](cnf-pers.md#obertura-de-la-dedicació)
 * [Camps lliures](cnf-pers.md#camps-lliures)
 
 #### Plantilles

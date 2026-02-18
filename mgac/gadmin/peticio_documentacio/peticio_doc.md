@@ -1,14 +1,14 @@
 # Petició de documentació
 
-* [Què és](peticio_doc.md#que-es)
+* [Què és](peticio_doc.md#què-és)
 * [Com s’hi accedeix](peticio_doc.md#com-shi-accedeix)
 * [Quines operacions es poden fer](peticio_doc.md#quines-operacions-es-poden-fer)
 
-  + [Actuacions prèvies](peticio_doc.md#actuacions-previes)
+  + [Actuacions prèvies](peticio_doc.md#actuacions-prèvies)
   + [Cercar alumnes](peticio_doc.md#cercar-alumnes)
-  + [Formalitzar la petició de documentació](peticio_doc.md#formalitzar-la-peticio-de-documentacio)
-  + [Iniciar la gestió manual](peticio_doc.md#iniciar-la-gestio-manual)
-  + [Signar la petició de documentació](peticio_doc.md#signar-la-peticio-de-documentacio)
+  + [Formalitzar la petició de documentació](peticio_doc.md#formalitzar-la-petició-de-documentació)
+  + [Iniciar la gestió manual](peticio_doc.md#iniciar-la-gestió-manual)
+  + [Signar la petició de documentació](peticio_doc.md#signar-la-petició-de-documentació)
 
 ## Què és
 

@@ -3,8 +3,8 @@
 Les dades que s'inclouen en aquesta pestanya són:
 
 * [Resultats d'avaluacions finals](fda-aa-avaluacions.md#resultats-davaluacions-finals)
-* [Enregistrar diligències a l'acta](fda-aa-avaluacions.md#enregistrar-diligencies-a-lacta)
-* [Llista de diligències](fda-aa-avaluacions.md#llista-de-diligencies)
+* [Enregistrar diligències a l'acta](fda-aa-avaluacions.md#enregistrar-diligències-a-lacta)
+* [Llista de diligències](fda-aa-avaluacions.md#llista-de-diligències)
 
 ### Resultats d'avaluacions finals
 

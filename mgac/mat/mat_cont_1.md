@@ -1,9 +1,9 @@
 # Matrícula d'alumnes del centre per continuïtat
 
-* [Què és](mat_cont_1.md#que-es)
+* [Què és](mat_cont_1.md#què-és)
 * [Com s'hi accedeix](mat_cont_1.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mat_cont_1.md#quines-operacions-shi-poden-fer)
-* [Tipus de matrícules](mat_cont_1.md#tipus-de-matricules)
+* [Tipus de matrícules](mat_cont_1.md#tipus-de-matrícules)
 
 ## Què és
 
@@ -70,14 +70,14 @@ En finalitzar la matrícula dels alumnes es pot [comprovar el seu currículum](h
 
 ## Tipus de matrícules
 
-* **[Matrícula d'un alumne](mat_cont_1.md#matricula-dun-alumne)**: aquesta opció permet fer la matrícula puntual d'un alumne. És especialment útil per trobar i corregir fàcilment el problema pel qual no s'ha pogut matricular un alumne dins d'un lot de matrícula.
-* **[Matrícula d'alumnes del centre a través d'un lot de matrícules](mat_cont_1.md#matricula-dalumnes-del-centre-a-traves-dun-lot-de-matricules)**: permet fer la matrícula d'un conjunt d'alumnes per un ensenyament i nivell amb el mateix currículum. Si es fa d'aquesta manera, s'ha de consultar l'estat del procés a l'opció del menú **Resultats dels lots de matrícula** del mòdul **Matrícula i fitxa de l'alumne**.
+* **[Matrícula d'un alumne](mat_cont_1.md#matrícula-dun-alumne)**: aquesta opció permet fer la matrícula puntual d'un alumne. És especialment útil per trobar i corregir fàcilment el problema pel qual no s'ha pogut matricular un alumne dins d'un lot de matrícula.
+* **[Matrícula d'alumnes del centre a través d'un lot de matrícules](mat_cont_1.md#matrícula-dalumnes-del-centre-a-través-dun-lot-de-matrícules)**: permet fer la matrícula d'un conjunt d'alumnes per un ensenyament i nivell amb el mateix currículum. Si es fa d'aquesta manera, s'ha de consultar l'estat del procés a l'opció del menú **Resultats dels lots de matrícula** del mòdul **Matrícula i fitxa de l'alumne**.
 
 ### Matrícula d'un alumne
 
 Quan es clica la icona ![](../../_media/esfera/mgac/editar.png), l'aplicació mostra un assistent amb dos processos diferenciats:
 
-* [Procés de matrícula](mat_cont_1.md#proces-de-matricula)
+* [Procés de matrícula](mat_cont_1.md#procés-de-matrícula)
 * [Fitxa de l'alumne/a](mat_cont_1.md#fitxa-de-lalumnea)
 
 ### Procés de matrícula

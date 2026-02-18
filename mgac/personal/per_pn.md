@@ -1,6 +1,6 @@
 ## Professor pendent de nomenar
 
-* [Què és](per_pn.md#que-es)
+* [Què és](per_pn.md#què-és)
 * [Com s'hi accedeix](per_pn.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](per_pn.md#quines-operacions-shi-poden-fer)
 

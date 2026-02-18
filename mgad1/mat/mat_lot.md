@@ -1,6 +1,6 @@
 # Resultats dels lots de matrícula
 
-* [Què són](mat_lot.md#que-son)
+* [Què són](mat_lot.md#què-són)
 * [Com s'hi accedeix](mat_lot.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mat_lot.md#quines-operacions-shi-poden-fer)
 

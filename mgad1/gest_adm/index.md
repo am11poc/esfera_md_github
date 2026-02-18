@@ -1,11 +1,11 @@
 # Gestió administrativa
 
-* [Contextualització](index.md#contextualitzacio)
-* [Funció d’aquest mòdul](index.md#funcio-daquest-modul)
+* [Contextualització](index.md#contextualització)
+* [Funció d’aquest mòdul](index.md#funció-daquest-mòdul)
 * [D’on venen les dades](index.md#don-venen-les-dades)
 * [Qui hi pot accedir](index.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](index.md#com-shi-accedeix)
-* [Organització del mòdul](index.md#organitzacio-del-modul)
+* [Organització del mòdul](index.md#organització-del-mòdul)
 
 ### Contextualització
 

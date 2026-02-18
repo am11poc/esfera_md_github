@@ -1,6 +1,6 @@
 # Cua d'elaboració (etiquetes)
 
-* [Què és](men_cua_eti.md#que-es)
+* [Què és](men_cua_eti.md#què-és)
 * [Com s’hi accedeix](men_cua_eti.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_cua_eti.md#quines-operacions-shi-poden-fer)
 

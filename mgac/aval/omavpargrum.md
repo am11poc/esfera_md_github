@@ -1,6 +1,6 @@
 ## Qualificacions per grup i matèria
 
-* [Què són](omavpargrum.md#que-son)
+* [Què són](omavpargrum.md#què-són)
 * [Com s'hi accedeix](omavpargrum.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](omavpargrum.md#quines-operacions-shi-poden-fer)
 

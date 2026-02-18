@@ -1,6 +1,6 @@
 # Sessió d'avaluació
 
-* [Què és](afsessio.md#que-es)
+* [Què és](afsessio.md#què-és)
 * [Com s'hi accedeix](afsessio.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](afsessio.md#quines-operacions-shi-poden-fer)
 
@@ -68,7 +68,7 @@ Es mostra la pantalla de la **sessió d'avaluació** amb:
 
 #### Canviar l'estat d'una sessió d'avaluació d'un grup
 
-* [Fer la petició per canviar l'estat](afsessio.md#fer-la-peticio-per-canviar-lestat)
+* [Fer la petició per canviar l'estat](afsessio.md#fer-la-petició-per-canviar-lestat)
 * [Condicions per canviar l'estat](afsessio.md#condicions-per-canviar-lestat)
 * [Accions que es poden fer en cada estat](afsessio.md#accions-que-es-poden-fer-en-cada-estat)
 
@@ -177,7 +177,7 @@ Després d'entrar les dades, prémer el botó ![](../../../_media/esfera/mgac/b_
 
 * [Actes](afsessio.md#actes)
 * [Butlletins](afsessio.md#butlletins)
-* [Acusament de recepció](afsessio.md#acusament-de-recepcio)
+* [Acusament de recepció](afsessio.md#acusament-de-recepció)
 
 #### Generació dels documents
 

@@ -4,7 +4,7 @@ En aquesta pestanya es desen les dades relacionades amb les situacions rellevant
 Les dades s'han agrupat en:
 
 * [Situacions rellevants de l'alumne/a](fda-ap-sit_rellevants.md#situacions-rellevants-de-lalumnea)
-* [Situacions que la família explica al centre](fda-ap-sit_rellevants.md#situacions-que-la-familia-explica-al-centre)
+* [Situacions que la família explica al centre](fda-ap-sit_rellevants.md#situacions-que-la-família-explica-al-centre)
 * [Situacions rellevants per al centre](fda-ap-sit_rellevants.md#situacions-rellevants-per-al-centre)
 * [Dades de l'entorn de l'alumne/a](fda-ap-sit_rellevants.md#dades-de-lentorn-de-lalumnea)
 

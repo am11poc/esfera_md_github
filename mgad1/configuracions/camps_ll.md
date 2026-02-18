@@ -1,6 +1,6 @@
 # Camps lliures
 
-* [Què són](camps_ll.md#que-son)
+* [Què són](camps_ll.md#què-són)
 * [Com s'hi accedeix](camps_ll.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](camps_ll.md#quines-operacions-shi-poden-fer)
 * [Tipus](camps_ll.md#tipus)

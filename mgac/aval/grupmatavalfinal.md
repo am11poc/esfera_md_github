@@ -1,6 +1,6 @@
 ## Qualificacions per grup i matèria
 
-* [Què és](grupmatavalfinal.md#que-es)
+* [Què és](grupmatavalfinal.md#què-és)
 * [Com s'hi accedeix](grupmatavalfinal.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](grupmatavalfinal.md#quines-operacions-shi-poden-fer)
 

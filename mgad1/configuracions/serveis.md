@@ -1,13 +1,13 @@
 # Serveis
 
-* [Què són](serveis.md#que-son)
+* [Què són](serveis.md#què-són)
 * [Com s'hi accedeix](serveis.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](serveis.md#quines-operacions-shi-poden-fer)
 
   + [Servei de menjador](serveis.md#servei-de-menjador)
   + [Servei de transport](serveis.md#servei-de-transport)
 
-    - [Línies](serveis.md#linies)
+    - [Línies](serveis.md#línies)
     - [Vehicles](serveis.md#vehicles)
     - [Parades](serveis.md#parades)
 
@@ -80,7 +80,7 @@ Si no es prem el botó ![](../../_media/esfera/mgac/b_desa.png) de la pantalla *
 
 Per organitzar aquest servei s'han d'emplenar les dades de:
 
-* [les línies;](serveis.md#les-linies)
+* [les línies;](serveis.md#les-línies)
 * [els vehicles;](serveis.md#els-vehicles)
 * [les parades.](serveis.md#les-parades)
 

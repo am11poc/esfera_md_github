@@ -1,11 +1,11 @@
 # Sessió d'avaluació
 
-* [Què és](omavparsessi.md#que-es)
+* [Què és](omavparsessi.md#què-és)
 * [Com s'hi accedeix](omavparsessi.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](omavparsessi.md#quines-operacions-shi-poden-fer)
 
-  + [Crear o canviar la sessió d'avaluació d'un grup](omavparsessi.md#crear-o-canviar-la-sessio-davaluacio-dun-grup)
-  + [Entrar les dades d'una sessió d'avaluació: data, assistents i acords](omavparsessi.md#entrar-les-dades-duna-sessio-davaluacio-data-assistents-i-acords)
+  + [Crear o canviar la sessió d'avaluació d'un grup](omavparsessi.md#crear-o-canviar-la-sessió-davaluació-dun-grup)
+  + [Entrar les dades d'una sessió d'avaluació: data, assistents i acords](omavparsessi.md#entrar-les-dades-duna-sessió-davaluació-data-assistents-i-acords)
   + [Imprimir els documents](omavparsessi.md#imprimir-els-documents)
 
 ### Què és
@@ -40,7 +40,7 @@ La pantalla mostra la taula de grups i les sessions d'avaluació:
 
 Per crear una sessió d'avaluació parcial cal:
 
-* Seleccionar l'opció de menú [Sessió d'avaluació](omavparsessi.md#sessio-davaluacio) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
+* Seleccionar l'opció de menú [Sessió d'avaluació](omavparsessi.md#sessió-davaluació) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
 
 ![](../../_media/esfera/mgac/aval/ap_sessio3.png)*Imatge 3- Accés a la pantalla per crear o modificar l'estat de les sessions d'avaluació d'un grup*
 
@@ -73,7 +73,7 @@ Es mostra la pantalla de la **sessió d'avaluació** amb:
 
 Per canviar l'estat d'una sessió d'avaluació parcial cal:
 
-* Seleccionar l'opció de menú [Sessió d'avaluació](omavparsessi.md#sessio-davaluacio) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
+* Seleccionar l'opció de menú [Sessió d'avaluació](omavparsessi.md#sessió-davaluació) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
 * Prémer la icona ![](../../_media/esfera/mgac/i_canviaestat.png) que correspon al grup.[3)](omavparsessi.md#3)
 
 ![](../../_media/esfera/mgac/aval/ap_sessio6.png)*Imatge 7- Pantalla de la sessió d'avaluació en estat Secretaria*
@@ -137,7 +137,7 @@ A la pantalla es mostra el missatge que el canvi d'estat s'ha iniciat. El canvi 
 
 Per entrar les dades d'una sessió d'avaluació cal:
 
-* Seleccionar l'opció del menú [Sessió d'avaluació](omavparsessi.md#sessio-davaluacio) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
+* Seleccionar l'opció del menú [Sessió d'avaluació](omavparsessi.md#sessió-davaluació) del submòdul **Avaluacions parcials** del mòdul **Avaluacions**.
 
 ![](../../_media/esfera/mgac/aval/ap_sessio_e1.png)*Imatge 12- Accés a l'entrada de les dades d'una sessió*
 
@@ -163,7 +163,7 @@ Després d'entrar les dades, prémer el botó ![](../../_media/esfera/mgac/b_des
 #### Generació de documents
 
 * [Actes](omavparsessi.md#actes)
-* [Butlletins i acusament de recepció](omavparsessi.md#butlletins-i-acusament-de-recepcio)
+* [Butlletins i acusament de recepció](omavparsessi.md#butlletins-i-acusament-de-recepció)
 
 ![](../../_media/esfera/mgac/btn-pujar.gif) ![](../../_media/esfera/mgac/pujar0.png)
 

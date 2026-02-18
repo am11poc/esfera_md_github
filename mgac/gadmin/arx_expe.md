@@ -1,6 +1,6 @@
 # Arxiu d'expedients
 
-* [Què és](arx_expe.md#que-es)
+* [Què és](arx_expe.md#què-és)
 * [Com s’hi accedeix](arx_expe.md#com-shi-accedeix)
 * [Quines operacions es poden fer](arx_expe.md#quines-operacions-es-poden-fer)
 

@@ -1,6 +1,6 @@
 # Qualificacions per al tutor del grup
 
-* [Què és](tutoravalfinal.md#que-es)
+* [Què és](tutoravalfinal.md#què-és)
 * [Com s'hi accedeix](tutoravalfinal.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](tutoravalfinal.md#quines-operacions-shi-poden-fer)
 

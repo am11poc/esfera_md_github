@@ -1,15 +1,15 @@
 # Preguntes més freqüents
 
 \* [Grups](faqs.md#grups)  
-\* [Matrícula i fitxa de l'alumne/a](faqs.md#matricula-i-fitxa-de-lalumnea)  
+\* [Matrícula i fitxa de l'alumne/a](faqs.md#matrícula-i-fitxa-de-lalumnea)  
 \* [Configuracions](faqs.md#configuracions)  
-\* [Currículums](faqs.md#curriculums)  
+\* [Currículums](faqs.md#currículums)  
 \* [Avaluacions](faqs.md#avaluacions)  
 \* [Publicacions](faqs.md#publicacions)  
-\* [Gestió administrativa](faqs.md#gestio-administrativa)  
+\* [Gestió administrativa](faqs.md#gestió-administrativa)  
 \* [Personal](faqs.md#personal)  
-\* [Expedient electrònic a Esfera i la seva custòdia](faqs.md#expedient-electronic-a-esfera-i-la-seva-custodia)  
-\* [Migració](faqs.md#migracio)  
+\* [Expedient electrònic a Esfera i la seva custòdia](faqs.md#expedient-electrònic-a-esfera-i-la-seva-custòdia)  
+\* [Migració](faqs.md#migració)  
 \* [Altres](faqs.md#altres)
 
 ## Grups

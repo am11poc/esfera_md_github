@@ -2,11 +2,11 @@
 
 **Continguts**   
   
-**1** [Accés](aval-af-sessio.md#acces)   
+**1** [Accés](aval-af-sessio.md#accés)   
   
-**2** [Estats de l'avaluació final](aval-af-sessio.md#estats-de-lavaluacio-final)   
+**2** [Estats de l'avaluació final](aval-af-sessio.md#estats-de-lavaluació-final)   
   
-**3** [Què es pot fer?](aval-af-sessio.md#que-es-pot-fer)
+**3** [Què es pot fer?](aval-af-sessio.md#què-es-pot-fer)
 
 ### Accés
 
@@ -36,7 +36,7 @@ Els estats de l'avaluació final són:
 
 * [Secretaria](aval-af-sessio.md#secretaria)
 * [Equip docent](aval-af-sessio.md#equip-docent)
-* [Sessió](aval-af-sessio.md#sessio)
+* [Sessió](aval-af-sessio.md#sessió)
 * [En signatura](aval-af-sessio.md#en-signatura)
 * [Signada](aval-af-sessio.md#signada)
 
@@ -202,15 +202,15 @@ Accés a la impressió
 
 Per cada grup:
 
-* [Crear l'avaluació final](aval-af-sessio.md#crear-lavaluacio-final)
-* [Enregistrar els canvis d'estat de l'avaluació](aval-af-sessio.md#enregistrar-els-canvis-destat-de-lavaluacio)
-* [Generar la documentació de cada avaluació: Acta i butlletins](aval-af-sessio.md#generar-la-documentacio-de-cada-avaluacio-acta-i-butlletins)
+* [Crear l'avaluació final](aval-af-sessio.md#crear-lavaluació-final)
+* [Enregistrar els canvis d'estat de l'avaluació](aval-af-sessio.md#enregistrar-els-canvis-destat-de-lavaluació)
+* [Generar la documentació de cada avaluació: Acta i butlletins](aval-af-sessio.md#generar-la-documentació-de-cada-avaluació-acta-i-butlletins)
 
 Per a cada grup i cada sessió d'avaluació:
 
-* [Enregistrar la data de l'avaluació](aval-af-sessio.md#enregistrar-la-data-de-lavaluacio)
-* [Enregistrar els acords de l'avaluació](aval-af-sessio.md#enregistrar-els-acords-de-lavaluacio)
-* [Enregistrar altres assistents a la sessió d'avaluació](aval-af-sessio.md#enregistrar-altres-assistents-a-la-sessio-davaluacio)
+* [Enregistrar la data de l'avaluació](aval-af-sessio.md#enregistrar-la-data-de-lavaluació)
+* [Enregistrar els acords de l'avaluació](aval-af-sessio.md#enregistrar-els-acords-de-lavaluació)
+* [Enregistrar altres assistents a la sessió d'avaluació](aval-af-sessio.md#enregistrar-altres-assistents-a-la-sessió-davaluació)
 
 #### Crear l'avaluació final
 

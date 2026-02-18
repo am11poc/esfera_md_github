@@ -1,6 +1,6 @@
 # Grups complementaris
 
-* [Què són](gid-gcom.md#que-son)
+* [Què són](gid-gcom.md#què-són)
 * [Com s’hi accedeix](gid-gcom.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](gid-gcom.md#quines-operacions-shi-poden-fer)
 

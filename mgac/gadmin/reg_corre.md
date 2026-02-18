@@ -1,6 +1,6 @@
 # Registre de correspondència
 
-* [Què és](reg_corre.md#que-es)
+* [Què és](reg_corre.md#què-és)
 * [Com s’hi accedeix](reg_corre.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](reg_corre.md#quines-operacions-shi-poden-fer)
 
@@ -9,7 +9,7 @@
   + [Temes](reg_corre.md#temes)
   + [Registres d'entrada](reg_corre.md#registres-dentrada)
   + [Registres de sortida](reg_corre.md#registres-de-sortida)
-  + [Extracció dels moviments](reg_corre.md#extraccio-dels-moviments)
+  + [Extracció dels moviments](reg_corre.md#extracció-dels-moviments)
 
 ### Què és
 

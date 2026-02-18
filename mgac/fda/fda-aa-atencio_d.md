@@ -10,7 +10,7 @@ Les dades de les mesures d'atenció a la diversitat que es poden emplenar són:
 * [Mesures i suports disponibles per a tots els centres](fda-aa-atencio_d.md#mesures-i-suports-disponibles-per-a-tots-els-centres)
 * [Mesures i suports assignats al centre](fda-aa-atencio_d.md#mesures-i-suports-assignats-al-centre)
 * [Dades del Pla de suport individualitzat](fda-aa-atencio_d.md#dades-del-pla-de-suport-individualitzat)
-* [Mesures i estratègies del centre](fda-aa-atencio_d.md#mesures-i-estrategies-del-centre)
+* [Mesures i estratègies del centre](fda-aa-atencio_d.md#mesures-i-estratègies-del-centre)
 
 ![](../../_media/esfera/mgac/fda/fda-aa-ad_1_2.png)*Imatge 1 - Accés a l'Atenció a la diversitat de l'àmbit acadèmic*
 

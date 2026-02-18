@@ -1,6 +1,6 @@
 ## Professor pendent de nomenar
 
-* [Què és](prof_pendent.md#que-es)
+* [Què és](prof_pendent.md#què-és)
 * [Com s'hi accedeix](prof_pendent.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](prof_pendent.md#quines-operacions-shi-poden-fer)
 

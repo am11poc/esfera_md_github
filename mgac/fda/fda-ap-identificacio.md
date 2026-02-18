@@ -4,7 +4,7 @@ Les dades que es troben en aquesta pestanya corresponen a l'alumne i són les se
 
 * [Dades personals](fda-ap-identificacio.md#dades-personals)
 * [Fotografia de l'alumne/a](fda-ap-identificacio.md#fotografia-de-lalumnea)
-* [Dades de localització](fda-ap-identificacio.md#dades-de-localitzacio)
+* [Dades de localització](fda-ap-identificacio.md#dades-de-localització)
 * [Altres contactes de l'alumne/a](fda-ap-identificacio.md#altres-contactes-de-lalumnea)
 
 ### Dades personals

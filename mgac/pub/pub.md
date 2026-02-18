@@ -1,12 +1,12 @@
 # Publicacions
 
-* [Contextualització](pub.md#contextualitzacio)
+* [Contextualització](pub.md#contextualització)
 * [Funcions](pub.md#funcions)
 * [D’on venen les dades](pub.md#don-venen-les-dades)
-* [A quin lloc de l’aplicació es fan servir aquestes dades](pub.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l’aplicació es fan servir aquestes dades](pub.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](pub.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](pub.md#com-shi-accedeix)
-* [Organització](pub.md#organitzacio)
+* [Organització](pub.md#organització)
 
 ### Contextualització
 

@@ -10,7 +10,7 @@ Els blocs de dades són els següents:
 
 * [Mesures flexibilitzadores](fda-aa-esp_cf.md#mesures-flexibilitzadores)
 * [Programes de mobilitat internacional](fda-aa-esp_cf.md#programes-de-mobilitat-internacional)
-* [Formació en centres de treball](fda-aa-esp_cf.md#formacio-en-centres-de-treball)
+* [Formació en centres de treball](fda-aa-esp_cf.md#formació-en-centres-de-treball)
 
 ### Mesures flexibilitzadores
 

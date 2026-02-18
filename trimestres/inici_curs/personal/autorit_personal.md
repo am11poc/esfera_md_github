@@ -1,6 +1,6 @@
 # Autoritzacions del personal del centre
 
-* [Què són](autorit_personal.md#que-son)
+* [Què són](autorit_personal.md#què-són)
 * [Com s'hi accedeix](autorit_personal.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](autorit_personal.md#quines-operacions-shi-poden-fer)
 

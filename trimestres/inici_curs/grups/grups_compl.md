@@ -1,6 +1,6 @@
 # Grups complementaris
 
-* [Què són](grups_compl.md#que-son)
+* [Què són](grups_compl.md#què-són)
 * [Com s’hi accedeix](grups_compl.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](grups_compl.md#quines-operacions-shi-poden-fer)
 

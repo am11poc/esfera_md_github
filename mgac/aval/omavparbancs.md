@@ -1,6 +1,6 @@
 ## Banc de frases
 
-* [Què són](omavparbancs.md#que-son)
+* [Què són](omavparbancs.md#què-són)
 * [Com s'hi accedeix](omavparbancs.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](omavparbancs.md#quines-operacions-shi-poden-fer)
 

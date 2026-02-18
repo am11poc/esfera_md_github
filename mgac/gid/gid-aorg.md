@@ -1,12 +1,12 @@
 # Agrupacions organitzatives
 
-* [Què són](gid-aorg.md#que-son)
+* [Què són](gid-aorg.md#què-són)
 * [Com s’hi accedeix](gid-aorg.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](gid-aorg.md#quines-operacions-shi-poden-fer)
 
-  + [Crear una agrupació organitzativa](gid-aorg.md#crear-una-agrupacio-organitzativa)
-  + [Esborrar una agrupació organitzativa](gid-aorg.md#esborrar-una-agrupacio-organitzativa)
-  + [Modificar una agrupació organitzativa](gid-aorg.md#modificar-una-agrupacio-organitzativa)
+  + [Crear una agrupació organitzativa](gid-aorg.md#crear-una-agrupació-organitzativa)
+  + [Esborrar una agrupació organitzativa](gid-aorg.md#esborrar-una-agrupació-organitzativa)
+  + [Modificar una agrupació organitzativa](gid-aorg.md#modificar-una-agrupació-organitzativa)
 
 ### Què són
 
@@ -62,9 +62,9 @@ També és possible variar l'ordre en què es mostren les agrupacions per pantal
 
 ### Quines operacions s'hi poden fer
 
-* [Crear una agrupació organitzativa](gid-aorg.md#crear-una-agrupacio-organitzativa) - Per crear noves agrupacions.
-* [Modificar una agrupació organitzativa](gid-aorg.md#modificar-una-agrupacio-organitzativa) - Per veure la composició de l'agrupació, és a dir, la relació d'alumnes, continguts i professors que imparteixen cada contingut a l'agrupació i per modificar-lo, si és el cas.
-* [Esborrar una agrupació organitzativa](gid-aorg.md#esborrar-una-agrupacio-organitzativa) - El programa permet esborrar una agrupació sempre que no tingui alumnes, continguts, professors i professor/a responsable.
+* [Crear una agrupació organitzativa](gid-aorg.md#crear-una-agrupació-organitzativa) - Per crear noves agrupacions.
+* [Modificar una agrupació organitzativa](gid-aorg.md#modificar-una-agrupació-organitzativa) - Per veure la composició de l'agrupació, és a dir, la relació d'alumnes, continguts i professors que imparteixen cada contingut a l'agrupació i per modificar-lo, si és el cas.
+* [Esborrar una agrupació organitzativa](gid-aorg.md#esborrar-una-agrupació-organitzativa) - El programa permet esborrar una agrupació sempre que no tingui alumnes, continguts, professors i professor/a responsable.
 
 ![](../../_media/esfera/mgac/btn-pujar.gif)![](../../_media/esfera/mgac/pujar0.png)
 
@@ -72,10 +72,10 @@ També és possible variar l'ordre en què es mostren les agrupacions per pantal
 
 #### Crear una agrupació organitzativa
 
-* [Identificar l'agrupació](gid-aorg.md#identificar-lagrupacio)
-* [Afegir/treure continguts a l'agrupació](gid-aorg.md#afegirtreure-continguts-a-lagrupacio)
-* [Afegir/treure alumnes a l'agrupació](gid-aorg.md#afegirtreure-alumnes-a-lagrupacio)
-* [Revisar i modificar els professors de l'agrupació](gid-aorg.md#revisar-i-modificar-els-professors-de-lagrupacio)
+* [Identificar l'agrupació](gid-aorg.md#identificar-lagrupació)
+* [Afegir/treure continguts a l'agrupació](gid-aorg.md#afegirtreure-continguts-a-lagrupació)
+* [Afegir/treure alumnes a l'agrupació](gid-aorg.md#afegirtreure-alumnes-a-lagrupació)
+* [Revisar i modificar els professors de l'agrupació](gid-aorg.md#revisar-i-modificar-els-professors-de-lagrupació)
 
 En primer lloc s'ha de clicar el botó ![](../../_media/esfera/mgac/afegeix.png).
 Aquesta acció obrirà una finestra modal on introduir les dades generals.

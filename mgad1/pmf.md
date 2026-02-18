@@ -1,7 +1,7 @@
 # Preguntes més freqüents
 
 \* [Grups](pmf.md#grups)  
-\* [Matrícula i fitxa de l'alumne/a](pmf.md#matricula-i-fitxa-de-lalumnea)  
+\* [Matrícula i fitxa de l'alumne/a](pmf.md#matrícula-i-fitxa-de-lalumnea)  
 \* [Configuracions](pmf.md#configuracions)
 
 ## Grups

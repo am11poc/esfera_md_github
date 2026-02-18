@@ -1,12 +1,12 @@
 # Gestió manual
 
-* [Què és](gestio_manual.md#que-es)
+* [Què és](gestio_manual.md#què-és)
 * [Com s’hi accedeix](gestio_manual.md#com-shi-accedeix)
 * [Quines operacions es poden fer](gestio_manual.md#quines-operacions-es-poden-fer)
 
-  + [Actuacions prèvies](gestio_manual.md#actuacions-previes)
+  + [Actuacions prèvies](gestio_manual.md#actuacions-prèvies)
   + [Enregistrar les dades](gestio_manual.md#enregistrar-les-dades)
-  + [Revisar les dades i signar la documentació](gestio_manual.md#revisar-les-dades-i-signar-la-documentacio)
+  + [Revisar les dades i signar la documentació](gestio_manual.md#revisar-les-dades-i-signar-la-documentació)
 
 ## Què és
 
@@ -26,7 +26,7 @@ Accedir a la funcionalitat **Gestió manual**:
 
 ### Actuacions prèvies
 
-Per tal de poder tenir disponible aquesta funcionalitat, cal que s'hagin **informat prèviament** les **dades del centre de procedència**  a la pestanya **[Dades d'accés i finalització](../../../mgac/fda/fda-aa-acces_i_fi.md)** de l'àmbit acadèmic al mòdul Matrícula i fitxa de l'alumne/a, i que s'hagi **[formalitzat la petició de custòdia corresponent](../../../mgac/gadmin/peticio_documentacio/peticio_doc.md#formalitzat-la-peticio-de-custodia-corresponent)**.
+Per tal de poder tenir disponible aquesta funcionalitat, cal que s'hagin **informat prèviament** les **dades del centre de procedència**  a la pestanya **[Dades d'accés i finalització](../../../mgac/fda/fda-aa-acces_i_fi.md)** de l'àmbit acadèmic al mòdul Matrícula i fitxa de l'alumne/a, i que s'hagi **[formalitzat la petició de custòdia corresponent](../../../mgac/gadmin/peticio_documentacio/peticio_doc.md#formalitzat-la-petició-de-custòdia-corresponent)**.
   
   
 En el moment en el qual s'enregistra una petició manual de documentació, **automàticament l'aplicació arxiva l'expedient** de l'alumne/a, per la qual cosa cal esperar a rebre l'avís assegurant que s'ha arxivat correctament l'expedient de l'alumne/a o comprovant-ho a l'opció del menú **Resultats dels lots d'arxiu d'expedients**.

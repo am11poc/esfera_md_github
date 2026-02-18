@@ -1,6 +1,6 @@
 # Sessió d'avaluació
 
-* [Què és](sessio_crear.md#que-es)
+* [Què és](sessio_crear.md#què-és)
 * [Com s'hi accedeix](sessio_crear.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](sessio_crear.md#quines-operacions-shi-poden-fer)
 
@@ -68,7 +68,7 @@ Es mostra la pantalla de la **sessió d'avaluació** amb:
 
 #### Canviar l'estat d'una sessió d'avaluació d'un grup
 
-* [Fer la petició per canviar l'estat](sessio_crear.md#fer-la-peticio-per-canviar-lestat)
+* [Fer la petició per canviar l'estat](sessio_crear.md#fer-la-petició-per-canviar-lestat)
 * [Condicions per canviar l'estat](sessio_crear.md#condicions-per-canviar-lestat)
 * [Accions que es poden fer en cada estat](sessio_crear.md#accions-que-es-poden-fer-en-cada-estat)
 
@@ -177,7 +177,7 @@ Després d'entrar les dades, prémer el botó ![](../../../_media/esfera/mgac/b_
 
 * [Actes](sessio_crear.md#actes)
 * [Butlletins](sessio_crear.md#butlletins)
-* [Acusament de recepció](sessio_crear.md#acusament-de-recepcio)
+* [Acusament de recepció](sessio_crear.md#acusament-de-recepció)
 
 #### Generació dels documents
 

@@ -1,16 +1,16 @@
 # Baixa de matrícula
 
-* [Estats de la matrícula](fda-aa-baixa_matricula.md#estats-de-la-matricula)
+* [Estats de la matrícula](fda-aa-baixa_matricula.md#estats-de-la-matrícula)
 
   + [Alta](fda-aa-baixa_matricula.md#alta)
-  + [Baixa manual gestionant documentació](fda-aa-baixa_matricula.md#baixa-manual-gestionant-documentacio)
+  + [Baixa manual gestionant documentació](fda-aa-baixa_matricula.md#baixa-manual-gestionant-documentació)
   + [Baixa gestionant documents de trasllat](fda-aa-baixa_matricula.md#baixa-gestionant-documents-de-trasllat)
   + [Baixa](fda-aa-baixa_matricula.md#baixa)
-* [Canvis d'estat de la matrícula](fda-aa-baixa_matricula.md#canvis-destat-de-la-matricula)
+* [Canvis d'estat de la matrícula](fda-aa-baixa_matricula.md#canvis-destat-de-la-matrícula)
 
-  + [D'Alta a Baixa manual gestionant documentació](fda-aa-baixa_matricula.md#dalta-a-baixa-manual-gestionant-documentacio)
+  + [D'Alta a Baixa manual gestionant documentació](fda-aa-baixa_matricula.md#dalta-a-baixa-manual-gestionant-documentació)
   + [D'Alta a Baixa gestionant documents de trasllat](fda-aa-baixa_matricula.md#dalta-a-baixa-gestionant-documents-de-trasllat)
-  + [De Baixa manual gestionant documentació a Baixa](fda-aa-baixa_matricula.md#de-baixa-manual-gestionant-documentacio-a-baixa)
+  + [De Baixa manual gestionant documentació a Baixa](fda-aa-baixa_matricula.md#de-baixa-manual-gestionant-documentació-a-baixa)
   + [De Baixa gestionant documents de trasllat a Baixa](fda-aa-baixa_matricula.md#de-baixa-gestionant-documents-de-trasllat-a-baixa)
   + [De Baixa gestionant documents de trasllat a Alta](fda-aa-baixa_matricula.md#de-baixa-gestionant-documents-de-trasllat-a-alta)
 

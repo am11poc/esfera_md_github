@@ -1,9 +1,9 @@
 # Matrícula d'alumnes del centre per continuïtat
 
-* [Què és](mat_cont.md#que-es)
+* [Què és](mat_cont.md#què-és)
 * [Com s'hi accedeix](mat_cont.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mat_cont.md#quines-operacions-shi-poden-fer)
-* [Tipus de matrícules](mat_cont.md#tipus-de-matricules)
+* [Tipus de matrícules](mat_cont.md#tipus-de-matrícules)
 
 ## Què és
 
@@ -25,7 +25,7 @@ S'ha d'escollir l'opció **Matrícula d'alumnes del centre per continuïtat** de
 
 ## Quines operacions s'hi poden fer
 
-* [Selecció dels alumnes](mat_cont.md#seleccio-dels-alumnes)
+* [Selecció dels alumnes](mat_cont.md#selecció-dels-alumnes)
 
 ### Selecció dels alumnes
 
@@ -56,14 +56,14 @@ Ara bé, els alumnes que se seleccionin fent un clic a la caselles de verificaci
 
 ## Tipus de matrícules
 
-* [Matrícula d'un alumne](mat_cont.md#matricula-dun-alumne)
-* [Matrícula d'alumnes del centre a través d'un lot de matrícules](mat_cont.md#matricula-dalumnes-del-centre-a-traves-dun-lot-de-matricules)
+* [Matrícula d'un alumne](mat_cont.md#matrícula-dun-alumne)
+* [Matrícula d'alumnes del centre a través d'un lot de matrícules](mat_cont.md#matrícula-dalumnes-del-centre-a-través-dun-lot-de-matrícules)
 
 ### Matrícula d'un alumne
 
 Quan es clica la icona ![](../../_media/esfera/mgac/editar.png), l'aplicació mostra un assistent amb dos processos diferenciats:
 
-* [Procés de matrícula](mat_cont.md#proces-de-matricula)
+* [Procés de matrícula](mat_cont.md#procés-de-matrícula)
 * [Fitxa de l'alumne/a](mat_cont.md#fitxa-de-lalumnea)
 
 ##### Procés de matrícula

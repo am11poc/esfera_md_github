@@ -1,12 +1,12 @@
 # Configuracions
 
-* [Contextualització](cnf.md#contextualitzacio)
+* [Contextualització](cnf.md#contextualització)
 * [Funcions](cnf.md#funcions)
 * [D’on venen les dades](cnf.md#don-venen-les-dades)
-* [A quin lloc de l’aplicació es fan servir aquestes dades](cnf.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l’aplicació es fan servir aquestes dades](cnf.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](cnf.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](cnf.md#com-shi-accedeix)
-* [Organització](cnf.md#organitzacio)
+* [Organització](cnf.md#organització)
 
 ### Contextualització
 

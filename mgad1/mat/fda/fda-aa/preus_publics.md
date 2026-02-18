@@ -2,8 +2,8 @@
 
 Les operacions que es poden fer en aquesta pestanya són les següents:
 
-* [Enregistrar el pagament del preu públic](preus_publics.md#enregistrar-el-pagament-del-preu-public)
-* [Enregistrar les incidències complementaries](preus_publics.md#enregistrar-les-incidencies-complementaries)
+* [Enregistrar el pagament del preu públic](preus_publics.md#enregistrar-el-pagament-del-preu-públic)
+* [Enregistrar les incidències complementaries](preus_publics.md#enregistrar-les-incidències-complementaries)
 
 ### Enregistrar el pagament del preu públic
 

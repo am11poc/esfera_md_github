@@ -1,6 +1,6 @@
 # Paràmetres del centre
 
-* [Què són](pc.md#que-son)
+* [Què són](pc.md#què-són)
 * [Com s’hi accedeix](pc.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](pc.md#quines-operacions-shi-poden-fer)
 

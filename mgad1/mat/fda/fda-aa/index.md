@@ -2,7 +2,7 @@
 
 L'Àmbit acadèmic recull tota la informació de cadascun dels ensenyaments als quals l'alumne està o ha estat matriculat al centre.
 
-* [Què és](index.md#que-es)
+* [Què és](index.md#què-és)
 * [Com s'hi accedeix](index.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](index.md#quines-operacions-shi-poden-fer)
 

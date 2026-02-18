@@ -1,13 +1,13 @@
 # Serveis
 
-* [Què són](cnf-ser.md#que-son)
+* [Què són](cnf-ser.md#què-són)
 * [Com s'hi accedeix](cnf-ser.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-ser.md#quines-operacions-shi-poden-fer)
 
   + [Servei de menjador](cnf-ser.md#servei-de-menjador)
   + [Servei de transport](cnf-ser.md#servei-de-transport)
 
-    - [Línies](cnf-ser.md#linies)
+    - [Línies](cnf-ser.md#línies)
     - [Vehicles](cnf-ser.md#vehicles)
     - [Parades](cnf-ser.md#parades)
 
@@ -80,7 +80,7 @@ Si no es prem el botó ![](../../_media/esfera/mgac/b_desa.png) de la pantalla *
 
 Per organitzar aquest servei s'han d'emplenar les dades de:
 
-* [les línies;](cnf-ser.md#les-linies)
+* [les línies;](cnf-ser.md#les-línies)
 * [els vehicles;](cnf-ser.md#els-vehicles)
 * [les parades.](cnf-ser.md#les-parades)
 

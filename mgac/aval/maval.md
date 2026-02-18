@@ -1,7 +1,7 @@
 # Avaluacions
 
-* [Contextualització](maval.md#contextualitzacio)
-* [Quina funció té aquest mòdul](maval.md#quina-funcio-te-aquest-modul)
+* [Contextualització](maval.md#contextualització)
+* [Quina funció té aquest mòdul](maval.md#quina-funció-té-aquest-mòdul)
 * [Tipus d'avaluacions al programa](maval.md#tipus-davaluacions-al-programa)
 
 * [Avaluacions finals](maval.md#avaluacions-finals)
@@ -88,17 +88,17 @@ Tenint en compte que el centre ha de fer les avaluacions finals i pot fer avalua
 
 ### Avaluacions finals
 
-* [Quantes sessions d'avaluació es poden fer i que s'hi avalua?](maval.md#quantes-sessions-davaluacio-es-poden-fer-i-que-shi-avalua)
-* [Fases i estats de l'avaluació final](maval.md#fases-i-estats-de-lavaluacio-final)
+* [Quantes sessions d'avaluació es poden fer i que s'hi avalua?](maval.md#quantes-sessions-davaluació-es-poden-fer-i-que-shi-avalua)
+* [Fases i estats de l'avaluació final](maval.md#fases-i-estats-de-lavaluació-final)
 
-  + [Fases de la sessió d'avaluació](maval.md#fases-de-la-sessio-davaluacio)
+  + [Fases de la sessió d'avaluació](maval.md#fases-de-la-sessió-davaluació)
 
     - Fase de treball de secretaria
     - Fase d'entrada de resultats
     - Fase resultats de la sessió d'avaluació
     - Fase de comprovació de resultats, signatura i impressió dels resultats
     - Fase d'arxiu
-  + [Estats de la sessió d'avaluació](maval.md#estats-de-la-sessio-davaluacio)
+  + [Estats de la sessió d'avaluació](maval.md#estats-de-la-sessió-davaluació)
 
     - Secretaria
     - Equip docent

@@ -2,7 +2,7 @@
 
 En aquest apartat es troben les dades del currículum actual i la seva concreció d'acord a les casuístiques personals de cada alumne/a.
 
-* [Què és](act_rel_llengues.md#que-es)
+* [Què és](act_rel_llengues.md#què-és)
 * [Com s'hi accedeix](act_rel_llengues.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](act_rel_llengues.md#quines-operacions-shi-poden-fer)
 
@@ -11,7 +11,7 @@ En aquest apartat es troben les dades del currículum actual i la seva concreci�
 Les dades que s'inclouen en aquesta pestanya són:
 
 * [Dades de l'ensenyament](act_rel_llengues.md#dades-de-lensenyament)
-* [Currículum](act_rel_llengues.md#curriculum)
+* [Currículum](act_rel_llengues.md#currículum)
 * [Altres dades curriculars](act_rel_llengues.md#altres-dades-curriculars)
 
 #### Dades de l'ensenyament
@@ -71,11 +71,11 @@ Per accedir-hi cal clicar a la pestanya Àmbit acadèmic del mòdul Matrícula i
 
 Les operacions que es poden realitzar des d'aquesta pantalla són:
 
-* [Modificar el currículum](act_rel_llengues.md#modificar-el-curriculum)
-* [Marcar les matèries afectades pel PI](act_rel_llengues.md#marcar-les-materies-afectades-pel-pi)
-* [Especificar matèries pendents de cursos anteriors](act_rel_llengues.md#especificar-materies-pendents-de-cursos-anteriors)
+* [Modificar el currículum](act_rel_llengues.md#modificar-el-currículum)
+* [Marcar les matèries afectades pel PI](act_rel_llengues.md#marcar-les-matèries-afectades-pel-pi)
+* [Especificar matèries pendents de cursos anteriors](act_rel_llengues.md#especificar-matèries-pendents-de-cursos-anteriors)
 * [Canviar de nivell](act_rel_llengues.md#canviar-de-nivell)
-* [Indicar les dades de l'escolarització compartida](act_rel_llengues.md#indicar-les-dades-de-lescolaritzacio-compartida)
+* [Indicar les dades de l'escolarització compartida](act_rel_llengues.md#indicar-les-dades-de-lescolarització-compartida)
 * [Fer la baixa de la matrícula](../../../mgac/fda/fda-aa-baixa_matricula.md)
 * [Situacions singulars](act_rel_llengues.md#situacions-singulars)
 

@@ -1,6 +1,6 @@
 ## Dades del personal
 
-* [Què és](per-per.md#que-es)
+* [Què és](per-per.md#què-és)
 * [Com s'hi accedeix](per-per.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](per-per.md#quines-operacions-shi-poden-fer)
 
@@ -32,7 +32,7 @@ Per accedir-hi, cal seleccionar l'opció del menú **Personal** del mòdul **Per
 ### Quines operacions s'hi poden fer
 
 * [Consultar la llista del personal vigent del centre](per-per.md#consultar-la-llista-del-personal-vigent-del-centre)
-* [Gestionar la dedicació](per-per.md#gestionar-la-dedicacio)
+* [Gestionar la dedicació](per-per.md#gestionar-la-dedicació)
 
 #### Consultar la llista del personal vigent del centre
 

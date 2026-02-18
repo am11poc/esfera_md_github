@@ -1,6 +1,6 @@
 # Petició de la custòdia (de l'expedient de l'alumne/a)
 
-* [Què és](peticio_documentacio.md#que-es)
+* [Què és](peticio_documentacio.md#què-és)
 * [Com s’hi accedeix](peticio_documentacio.md#com-shi-accedeix)
 * [Quines operacions es poden fer](peticio_documentacio.md#quines-operacions-es-poden-fer)
 

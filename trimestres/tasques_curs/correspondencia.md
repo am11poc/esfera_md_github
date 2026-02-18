@@ -1,6 +1,6 @@
 # Registre de correspondència
 
-* [Què és](correspondencia.md#que-es)
+* [Què és](correspondencia.md#què-és)
 * [Com s’hi accedeix](correspondencia.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](correspondencia.md#quines-operacions-shi-poden-fer)
 
@@ -9,7 +9,7 @@
   + [Temes](correspondencia.md#temes)
   + [Registres d'entrada](correspondencia.md#registres-dentrada)
   + [Registres de sortida](correspondencia.md#registres-de-sortida)
-  + [Extracció dels moviments](correspondencia.md#extraccio-dels-moviments)
+  + [Extracció dels moviments](correspondencia.md#extracció-dels-moviments)
 
 ### Què és
 

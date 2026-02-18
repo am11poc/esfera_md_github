@@ -41,8 +41,8 @@ Tingui criteri i capacitat de decisió.
 * [Serveis](cnf.md#serveis)
 * [Equipament](cnf.md#equipament)
 * [Autoritzacions del personal del centre](cnf.md#autoritzacions-del-personal-del-centre)
-* [Paràmetres de centre](cnf.md#parametres-de-centre)
+* [Paràmetres de centre](cnf.md#paràmetres-de-centre)
 * [Mesures flexibilitzadores](cnf.md#mesures-flexibilitzadores)
-* [Atenció a la diversitat](cnf.md#atencio-a-la-diversitat)
+* [Atenció a la diversitat](cnf.md#atenció-a-la-diversitat)
 
 ![](../_media/esfera/pujar0.png)

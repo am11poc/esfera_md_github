@@ -1,6 +1,6 @@
 # Grups assignats
 
-* [Què són](g_assignats.md#que-son)
+* [Què són](g_assignats.md#què-són)
 * [Com s’hi accedeix](g_assignats.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](g_assignats.md#quines-operacions-shi-poden-fer)
 

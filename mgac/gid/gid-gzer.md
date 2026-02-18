@@ -1,6 +1,6 @@
 # Grups ZER
 
-* [Què són](gid-gzer.md#que-son)
+* [Què són](gid-gzer.md#què-són)
 * [Com s’hi accedeix](gid-gzer.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](gid-gzer.md#quines-operacions-shi-poden-fer)
 

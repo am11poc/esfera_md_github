@@ -3,8 +3,8 @@
 Les dades que s'inclouen en aquesta pestanya són:
 
 * [Resultats d'avaluacions finals](resultats_d_avaluacions_finals.md#resultats-davaluacions-finals)
-* [Enregistrar diligències a l'acta](resultats_d_avaluacions_finals.md#enregistrar-diligencies-a-lacta)
-* [Llista de diligències](resultats_d_avaluacions_finals.md#llista-de-diligencies)
+* [Enregistrar diligències a l'acta](resultats_d_avaluacions_finals.md#enregistrar-diligències-a-lacta)
+* [Llista de diligències](resultats_d_avaluacions_finals.md#llista-de-diligències)
 
 ### Resultats d'avaluacions finals
 

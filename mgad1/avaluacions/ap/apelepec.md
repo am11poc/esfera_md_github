@@ -1,6 +1,6 @@
 ## Elements propis del centre
 
-* [Què són](apelepec.md#que-son)
+* [Què són](apelepec.md#què-són)
 * [Com s'hi accedeix](apelepec.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](apelepec.md#quines-operacions-shi-poden-fer)
 
@@ -58,7 +58,7 @@ La definició del període de **vigència de cada curs** permet repetir periòdi
 
 A la llista d'elements propis del centre s'hi pot afegir una còpia dels normatius. Per fer-ho cal prémer el botó ![](../../../_media/esfera/mgac/b_mes_accions.png) que hi ha sobre de la taula, i seleccionar l'opció **Copia l'estructura curricular**.
 
-Es pot fer la còpia d'[algun dels elements curriculars](apelepec.md#algun-dels-elements-curriculars) sense mantenir la relació d'estructura[2)](apelepec.md#2), o bé fer la [de diversos elements mantenint l'estructura de relació.](apelepec.md#de-diversos-elements-mantenint-lestructura-de-relacio) [3)](apelepec.md#3)
+Es pot fer la còpia d'[algun dels elements curriculars](apelepec.md#algun-dels-elements-curriculars) sense mantenir la relació d'estructura[2)](apelepec.md#2), o bé fer la [de diversos elements mantenint l'estructura de relació.](apelepec.md#de-diversos-elements-mantenint-lestructura-de-relació) [3)](apelepec.md#3)
 
 #### Còpia dels elements de forma independent
 

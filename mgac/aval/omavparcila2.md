@@ -1,6 +1,6 @@
 # Avaluacions parcials
 
-* [Què són](omavparcila2.md#que-son)
+* [Què són](omavparcila2.md#què-són)
 * [Com s'hi accedeix](omavparcila2.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](omavparcila2.md#quines-operacions-shi-poden-fer)
 
@@ -54,10 +54,10 @@ L'avaluació es desenvolupa en **fases** que en el programa es tradueixen en **e
 
 Les fases establertes són:
 
-* [Fase de treball de secretaria - Estat "Secretaria"](omavparcila2.md#fase-de-treball-de-secretaria---estat-secretaria)
-* [Fase d'entrada de resultats - Estat "Professors"](omavparcila2.md#fase-dentrada-de-resultats---estat-professors)
-* [Fase de resultats de la sessió d'avaluació i fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](omavparcila2.md#fase-de-resultats-de-la-sessio-davaluacio-i-fase-de-comprovacio-de-resultats-signatura-i-impressio-dels-resultats---estat-junta)
-* [Fase d'arxiu - Estat "Tancada"](omavparcila2.md#fase-darxiu---estat-tancada)
+* [Fase de treball de secretaria - Estat "Secretaria"](omavparcila2.md#fase-de-treball-de-secretaria-estat-secretaria)
+* [Fase d'entrada de resultats - Estat "Professors"](omavparcila2.md#fase-dentrada-de-resultats-estat-professors)
+* [Fase de resultats de la sessió d'avaluació i fase de comprovació de resultats, signatura i impressió dels resultats - Estat "Junta"](omavparcila2.md#fase-de-resultats-de-la-sessió-davaluació-i-fase-de-comprovació-de-resultats-signatura-i-impressió-dels-resultats-estat-junta)
+* [Fase d'arxiu - Estat "Tancada"](omavparcila2.md#fase-darxiu-estat-tancada)
 
 #### Fase de treball de secretaria - Estat "Secretaria"
 

@@ -2,8 +2,8 @@
 
 Les dades que es troben en aquesta pestanya són les següents:
 
-* [Dades personals i de localització del primer tutor/a](fda-ap-tutors.md#dades-personals-i-de-localitzacio-del-primer-tutora)
-* [Dades personals i de localització del segon tutor/a](fda-ap-tutors.md#dades-personals-i-de-localitzacio-del-segon-tutora)
+* [Dades personals i de localització del primer tutor/a](fda-ap-tutors.md#dades-personals-i-de-localització-del-primer-tutora)
+* [Dades personals i de localització del segon tutor/a](fda-ap-tutors.md#dades-personals-i-de-localització-del-segon-tutora)
 
 ![](../../_media/esfera/mgac/fda/fda-ap-tutors.png)*Imatge 1 - Dades del primer tutor o tutora*
 

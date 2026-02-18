@@ -1,11 +1,11 @@
 ## Personal
 
-* [Contextualització](per.md#contextualitzacio)
+* [Contextualització](per.md#contextualització)
 * [Funcions](per.md#funcions)
 * [D’on venen les dades](per.md#don-venen-les-dades)
-* [A quin lloc de l'aplicació es fan servir aquestes dades](per.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l'aplicació es fan servir aquestes dades](per.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](per.md#qui-hi-pot-accedir)
-* [Organització](per.md#organitzacio)
+* [Organització](per.md#organització)
 
 ### Contextualització
 

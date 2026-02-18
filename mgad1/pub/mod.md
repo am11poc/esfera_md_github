@@ -1,6 +1,6 @@
 # Models
 
-* [Què són](mod.md#que-son)
+* [Què són](mod.md#què-són)
 * [Com s’hi accedeix](mod.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](mod.md#quines-operacions-shi-poden-fer)
 

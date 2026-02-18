@@ -1,6 +1,6 @@
 # Qualificacions per al tutor del grup
 
-* [Què és](aftutor.md#que-es)
+* [Què és](aftutor.md#què-és)
 * [Com s'hi accedeix](aftutor.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](aftutor.md#quines-operacions-shi-poden-fer)
 

@@ -1,6 +1,6 @@
 # Cua d'elaboració (extraccions)
 
-* [Què és](ext_cua.md#que-es)
+* [Què és](ext_cua.md#què-és)
 * [Com s’hi accedeix](ext_cua.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](ext_cua.md#quines-operacions-shi-poden-fer)
 

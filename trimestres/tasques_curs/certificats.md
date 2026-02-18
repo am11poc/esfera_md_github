@@ -1,15 +1,15 @@
 # Certificats
 
-* [Què són](certificats.md#que-son)
+* [Què són](certificats.md#què-són)
 * [Com s’hi accedeix](certificats.md#com-shi-accedeix)
 * [Tipus de certificats](certificats.md#tipus-de-certificats)
 
   + [Certificat de qualificacions](certificats.md#certificat-de-qualificacions)
-  + [Certificat de matrícula](certificats.md#certificat-de-matricula)
+  + [Certificat de matrícula](certificats.md#certificat-de-matrícula)
   + [Certificat d'haver estat matriculat](certificats.md#certificat-dhaver-estat-matriculat)
-  + [Certificat genèric d'alumnes](certificats.md#certificat-generic-dalumnes)
+  + [Certificat genèric d'alumnes](certificats.md#certificat-genèric-dalumnes)
   + [Certificat de personal](certificats.md#certificat-de-personal)
-  + [Certificat genèric](certificats.md#certificat-generic)
+  + [Certificat genèric](certificats.md#certificat-genèric)
   + [Registre de certificats](certificats.md#registre-de-certificats)
 
 ### Què són

@@ -1,12 +1,12 @@
 # Grups
 
-* [Contextualització](mod_grups.md#contextualitzacio)
+* [Contextualització](mod_grups.md#contextualització)
 * [Funcions](mod_grups.md#funcions)
 * [D’on venen les dades](mod_grups.md#don-venen-les-dades)
-* [A quin lloc de l’aplicació es fan servir aquestes dades](mod_grups.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [A quin lloc de l’aplicació es fan servir aquestes dades](mod_grups.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](mod_grups.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](mod_grups.md#com-shi-accedeix)
-* [Organització](mod_grups.md#organitzacio)
+* [Organització](mod_grups.md#organització)
 
 ### Contextualització
 

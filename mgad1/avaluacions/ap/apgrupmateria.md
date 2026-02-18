@@ -1,6 +1,6 @@
 ## Qualificacions per grup i matèria
 
-* [Què són](apgrupmateria.md#que-son)
+* [Què són](apgrupmateria.md#què-són)
 * [Com s'hi accedeix](apgrupmateria.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](apgrupmateria.md#quines-operacions-shi-poden-fer)
 

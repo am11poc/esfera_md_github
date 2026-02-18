@@ -1,6 +1,6 @@
 # Grups classe
 
-* [Què són](gid-gcla.md#que-son)
+* [Què són](gid-gcla.md#què-són)
 * [Com s’hi accedeix](gid-gcla.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](gid-gcla.md#quines-operacions-shi-poden-fer)
 

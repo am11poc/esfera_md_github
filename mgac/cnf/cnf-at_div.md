@@ -1,6 +1,6 @@
 # Atenció a la diversitat
 
-* [Què és](cnf-at_div.md#que-es)
+* [Què és](cnf-at_div.md#què-és)
 * [Com s’hi accedeix](cnf-at_div.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](cnf-at_div.md#quines-operacions-shi-poden-fer)
 

@@ -1,6 +1,6 @@
 ## Qualificacions per grup i alumne/a
 
-* [Què és](afgrupalumne.md#que-es)
+* [Què és](afgrupalumne.md#què-és)
 * [Com s'hi accedeix](afgrupalumne.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](afgrupalumne.md#quines-operacions-shi-poden-fer)
 

@@ -1,12 +1,12 @@
 # Currículums
 
-* [Contextualització](mod_curri.md#contextualitzacio)
+* [Contextualització](mod_curri.md#contextualització)
 * [Funcions](mod_curri.md#funcions)
-* [D’on vénen les dades](mod_curri.md#don-venen-les-dades)
-* [A quin lloc de l’aplicació es fan servir aquestes dades](mod_curri.md#a-quin-lloc-de-laplicacio-es-fan-servir-aquestes-dades)
+* [D’on vénen les dades](mod_curri.md#don-vénen-les-dades)
+* [A quin lloc de l’aplicació es fan servir aquestes dades](mod_curri.md#a-quin-lloc-de-laplicació-es-fan-servir-aquestes-dades)
 * [Qui hi pot accedir](mod_curri.md#qui-hi-pot-accedir)
 * [Com s’hi accedeix](mod_curri.md#com-shi-accedeix)
-* [Organització](mod_curri.md#organitzacio)
+* [Organització](mod_curri.md#organització)
 
 ### Contextualització
 

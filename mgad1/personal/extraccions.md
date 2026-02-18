@@ -1,6 +1,6 @@
 ## Extraccions de la dedicació
 
-* [Què és](extraccions.md#que-es)
+* [Què és](extraccions.md#què-és)
 * [Com s'hi accedeix](extraccions.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](extraccions.md#quines-operacions-shi-poden-fer)
 

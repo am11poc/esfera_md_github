@@ -1,6 +1,6 @@
 ## Model d'avaluacions parcials
 
-* [Què són](aptipolo.md#que-son)
+* [Què són](aptipolo.md#què-són)
 * [Com s'hi accedeix](aptipolo.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](aptipolo.md#quines-operacions-shi-poden-fer)
 
@@ -8,8 +8,8 @@
 
 L'opció del menú [Model d'avaluacions parcials](aptipolo.md#model-davaluacions-parcials) permet que el centre estableixi com vol fer les avaluacions parcials.[1)](aptipolo.md#1)
 
-* **[Model d'avaluació parcial basada en la normativa](aptipolo.md#model-davaluacio-parcial-basada-en-la-normativa)**: S'avaluen els elements curriculars que l'alumne té a la matrícula amb els literals que la normativa estableix per a l'ensenyament.
-* **[Model d'avaluació parcial pròpia del centre](aptipolo.md#model-davaluacio-parcial-propia-del-centre)**: S'avaluen els elements i amb els literals que disposi el centre d'acord amb el seu projecte educatiu.
+* **[Model d'avaluació parcial basada en la normativa](aptipolo.md#model-davaluació-parcial-basada-en-la-normativa)**: S'avaluen els elements curriculars que l'alumne té a la matrícula amb els literals que la normativa estableix per a l'ensenyament.
+* **[Model d'avaluació parcial pròpia del centre](aptipolo.md#model-davaluació-parcial-pròpia-del-centre)**: S'avaluen els elements i amb els literals que disposi el centre d'acord amb el seu projecte educatiu.
 
 Podeu canviar el model de les avaluacions mentre no s'hagi iniciat l'avaluació de cap grup de l'ensenyament.[2)](aptipolo.md#2)  
 Un cop iniciades no es pot canviar el model d'avaluació de l'ensenyament.

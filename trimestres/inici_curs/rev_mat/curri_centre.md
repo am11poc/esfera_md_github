@@ -1,12 +1,12 @@
 # Currículum del centre
 
-* [Què és](curri_centre.md#que-es)
+* [Què és](curri_centre.md#què-és)
 * [Com s'hi accedeix](curri_centre.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](curri_centre.md#quines-operacions-shi-poden-fer)
 
   + [Consultar](curri_centre.md#consultar)
-  + [Crear-ne un de nou fent una còpia](curri_centre.md#crear-ne-un-de-nou-fent-una-copia)
-  + [Crear-ne un a partir d’un currículum base](curri_centre.md#crear-ne-un-a-partir-dun-curriculum-base)
+  + [Crear-ne un de nou fent una còpia](curri_centre.md#crear-ne-un-de-nou-fent-una-còpia)
+  + [Crear-ne un a partir d’un currículum base](curri_centre.md#crear-ne-un-a-partir-dun-currículum-base)
   + [Modificar](curri_centre.md#modificar)
   + [Esborrar](curri_centre.md#esborrar)
   + [Cas particular de les ZER](curri_centre.md#cas-particular-de-les-zer)
@@ -79,9 +79,9 @@ En els ensenyaments en què el pes del centre faci referència a les hores, la s
 
 * [Consultar](curri_centre.md#consultar) - veure la llista de currículums del centre.
 
-* [Crear-ne un de nou fent una còpia](curri_centre.md#crear-ne-un-de-nou-fent-una-copia) - L'aplicació fa una còpia d'un currículum existent, amb el mateix nom i continguts. Al codi hi afegeix la paraula "còpia". Després de copiar-lo, accedint a la funció [Modificar](curri_centre.md#modificar), el programa permet canviar-ne el nom i modificar-ne els elements curriculars i les hores.
+* [Crear-ne un de nou fent una còpia](curri_centre.md#crear-ne-un-de-nou-fent-una-còpia) - L'aplicació fa una còpia d'un currículum existent, amb el mateix nom i continguts. Al codi hi afegeix la paraula "còpia". Després de copiar-lo, accedint a la funció [Modificar](curri_centre.md#modificar), el programa permet canviar-ne el nom i modificar-ne els elements curriculars i les hores.
 
-* [Crear-ne un a partir d’un currículum base](curri_centre.md#crear-ne-un-a-partir-dun-curriculum-base) - Es crea un currículum nou, amb tots els elements curriculars que hi ha en un currículum base. En crear-lo s'hi ha de posar un codi, un nom, especificar si cal afegir o treure elements curriculars i, si és el cas, modificar-ne les hores.
+* [Crear-ne un a partir d’un currículum base](curri_centre.md#crear-ne-un-a-partir-dun-currículum-base) - Es crea un currículum nou, amb tots els elements curriculars que hi ha en un currículum base. En crear-lo s'hi ha de posar un codi, un nom, especificar si cal afegir o treure elements curriculars i, si és el cas, modificar-ne les hores.
 
 * [Modificar](curri_centre.md#modificar) - Aquesta funció permet canviar el nom del currículum i modificar-ne els elements curriculars i les hores.
 
@@ -197,8 +197,8 @@ del mòdul **Currículums**.
 
 ### Cas particular de les ZER
 
-\* [Crear els currículums de la ZER i fer-ne la rèplica a les escoles](curri_centre.md#crear-els-curriculums-de-la-zer-i-fer-ne-la-replica-a-les-escoles)  
-\* [Crear els currículums del centre a les escoles de la ZER](curri_centre.md#crear-els-curriculums-del-centre-a-les-escoles-de-la-zer)
+\* [Crear els currículums de la ZER i fer-ne la rèplica a les escoles](curri_centre.md#crear-els-currículums-de-la-zer-i-fer-ne-la-rèplica-a-les-escoles)  
+\* [Crear els currículums del centre a les escoles de la ZER](curri_centre.md#crear-els-currículums-del-centre-a-les-escoles-de-la-zer)
 
 #### Crear els currículums de la ZER i fer-ne la rèplica a les escoles
 

@@ -1,6 +1,6 @@
 # Avaluacions
 
-* [Contextualització](modulavaluacio.md#contextualitzacio)
+* [Contextualització](modulavaluacio.md#contextualització)
 * [Funcions](modulavaluacio.md#funcions)
 * [Tipus d'avaluacions a Esfer@](modulavaluacio.md#tipus-davaluacions-a-esfer)
 

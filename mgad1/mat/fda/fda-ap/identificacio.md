@@ -4,7 +4,7 @@ Les dades que es troben en aquesta pestanya corresponen a l'alumne i són les se
 
 * [Dades personals](identificacio.md#dades-personals)
 * [Fotografia de l'alumne/a](identificacio.md#fotografia-de-lalumnea)
-* [Dades de localització](identificacio.md#dades-de-localitzacio)
+* [Dades de localització](identificacio.md#dades-de-localització)
 * [Altres contactes de l'alumne/a](identificacio.md#altres-contactes-de-lalumnea)
 
 ### Dades personals

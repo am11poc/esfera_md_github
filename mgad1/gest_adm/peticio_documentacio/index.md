@@ -31,7 +31,7 @@ Cadascun dels centres ha de fer la seva gestió en aquest procediment.
   
 Bàsicament el procés consta de quatre passos:
 
-1. El centre B comprova que a la FDA, [Dades d’accés i finalització](peticio_doc.md#dades-dacces-i-finalitzacio) de l’Àmbit acadèmic, hi consta el nom del centre que té la custòdia.
+1. El centre B comprova que a la FDA, [Dades d’accés i finalització](peticio_doc.md#dades-daccés-i-finalització) de l’Àmbit acadèmic, hi consta el nom del centre que té la custòdia.
 2. El centre B formalitza i [signa](peticio_doc.md#signa) (direcció) la petició de documentació al centre A.
 3. El centre A fa la [resposta](respota_peticio_docum.md) a la petició de documentació i la [signa](respota_peticio_docum.md#signa) (direcció) al centre B.
 4. El centre B [rep la tramesa](recepcio-docum.md) .
@@ -56,8 +56,8 @@ En el cas que sigui necessari tenir una constància fefaent de l'enviament, s'ha
 
 En aquest cas el **centre de destinació** ha de realitzar els passos següents a l’aplicació:
 
-1. Enregistrar [les dades del centre de procedència a Dades d’accés i finalització de l’Àmbit acadèmic](peticio_doc.md#les-dades-del-centre-de-procedencia-a-dades-dacces-i-finalitzacio-de-lambit-academic).
-2. [Iniciar la petició de documentació](peticio_doc.md#iniciar-la-peticio-de-documentacio) i [formalitzar-la com a Gestió manual](peticio_doc.md#formalitzar-la-com-a-gestio-manual). Comprovar que s’ha arxivat correctament l’expedient.
+1. Enregistrar [les dades del centre de procedència a Dades d’accés i finalització de l’Àmbit acadèmic](peticio_doc.md#les-dades-del-centre-de-procedència-a-dades-daccés-i-finalització-de-làmbit-acadèmic).
+2. [Iniciar la petició de documentació](peticio_doc.md#iniciar-la-petició-de-documentació) i [formalitzar-la com a Gestió manual](peticio_doc.md#formalitzar-la-com-a-gestió-manual). Comprovar que s’ha arxivat correctament l’expedient.
 3. Gravar[les dades rebudes en paper del centre d’origen a la funcionalitat Gestió manual](gestio_manual.md). .
 4. Carregar en format PDF el document rebut en paper.
 5. El director/a ha de [signar la conformitat](gestio_manual.md#signar-la-conformitat) de les dades entrades.

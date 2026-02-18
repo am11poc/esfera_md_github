@@ -1,6 +1,6 @@
 # Cua d'elaboració (models)
 
-* [Què és](men_cua_mod.md#que-es)
+* [Què és](men_cua_mod.md#què-és)
 * [Com s’hi accedeix](men_cua_mod.md#com-shi-accedeix)
 * [Quines operacions s'hi poden fer](men_cua_mod.md#quines-operacions-shi-poden-fer)
 

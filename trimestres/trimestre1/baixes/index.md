@@ -1,16 +1,16 @@
 # Baixa de matrícula
 
-* [Estats de la matrícula](index.md#estats-de-la-matricula)
+* [Estats de la matrícula](index.md#estats-de-la-matrícula)
 
   + [Alta](index.md#alta)
-  + [Baixa manual gestionant documentació](index.md#baixa-manual-gestionant-documentacio)
+  + [Baixa manual gestionant documentació](index.md#baixa-manual-gestionant-documentació)
   + [Baixa gestionant documents de trasllat](index.md#baixa-gestionant-documents-de-trasllat)
   + [Baixa](index.md#baixa)
-* [Canvis d'estat de la matrícula](index.md#canvis-destat-de-la-matricula)
+* [Canvis d'estat de la matrícula](index.md#canvis-destat-de-la-matrícula)
 
-  + [D'Alta a Baixa manual gestionant documentació](index.md#dalta-a-baixa-manual-gestionant-documentacio)
+  + [D'Alta a Baixa manual gestionant documentació](index.md#dalta-a-baixa-manual-gestionant-documentació)
   + [D'Alta a Baixa gestionant documents de trasllat](index.md#dalta-a-baixa-gestionant-documents-de-trasllat)
-  + [De Baixa manual gestionant documentació a Baixa](index.md#de-baixa-manual-gestionant-documentacio-a-baixa)
+  + [De Baixa manual gestionant documentació a Baixa](index.md#de-baixa-manual-gestionant-documentació-a-baixa)
   + [De Baixa gestionant documents de trasllat a Baixa](index.md#de-baixa-gestionant-documents-de-trasllat-a-baixa)
   + [De Baixa gestionant documents de trasllat a Alta](index.md#de-baixa-gestionant-documents-de-trasllat-a-alta)
 
